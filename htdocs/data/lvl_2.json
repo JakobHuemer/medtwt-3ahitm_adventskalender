@@ -1,0 +1,3584 @@
+[
+  {
+    "id": 8,
+    "name": "deepslate",
+    "displayName": "Deepslate",
+    "stackSize": 64,
+    "description": "Dark, dense stone found in deep underground layers.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 9,
+    "name": "cobbled_deepslate",
+    "displayName": "Cobbled Deepslate",
+    "stackSize": 64,
+    "description": "Rough, broken pieces of deepslate.",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 10,
+    "name": "polished_deepslate",
+    "displayName": "Polished Deepslate",
+    "stackSize": 64,
+    "description": "Smooth, sophisticated version of raw deepslate.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 11,
+    "name": "calcite",
+    "displayName": "Calcite",
+    "stackSize": 64,
+    "description": "White, chalky mineral found in caves.",
+    "value": 10,
+    "rarity": 2
+  },
+  {
+    "id": 12,
+    "name": "tuff",
+    "displayName": "Tuff",
+    "stackSize": 64,
+    "description": "Volcanic rock with a distinctive, rough texture.",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 26,
+    "name": "dripstone_block",
+    "displayName": "Dripstone Block",
+    "stackSize": 64,
+    "description": "Pointy stone block found in cave systems.",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 41,
+    "name": "cherry_planks",
+    "displayName": "Cherry Planks",
+    "stackSize": 64,
+    "description": "Delicate, light pink wooden planks from cherry trees.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 44,
+    "name": "bamboo_planks",
+    "displayName": "Bamboo Planks",
+    "stackSize": 64,
+    "description": "Lightweight, sustainable planks crafted from bamboo.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 53,
+    "name": "cherry_sapling",
+    "displayName": "Cherry Sapling",
+    "stackSize": 64,
+    "description": "Delicate pink sapling of the flowering cherry tree.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 63,
+    "name": "deepslate_coal_ore",
+    "displayName": "Deepslate Coal Ore",
+    "stackSize": 64,
+    "description": "Coal ore embedded in deep underground stone.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 65,
+    "name": "deepslate_iron_ore",
+    "displayName": "Deepslate Iron Ore",
+    "stackSize": 64,
+    "description": "Iron ore found in deep underground layers.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 67,
+    "name": "deepslate_copper_ore",
+    "displayName": "Deepslate Copper Ore",
+    "stackSize": 64,
+    "description": "Copper ore nestled in deep stone layers.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 68,
+    "name": "gold_ore",
+    "displayName": "Gold Ore",
+    "stackSize": 64,
+    "description": "Precious yellow ore prized for its rarity.",
+    "value": 70,
+    "rarity": 2
+  },
+  {
+    "id": 70,
+    "name": "redstone_ore",
+    "displayName": "Redstone Ore",
+    "stackSize": 64,
+    "description": "Glowing red ore powering complex Minecraft mechanisms.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 74,
+    "name": "lapis_ore",
+    "displayName": "Lapis Lazuli Ore",
+    "stackSize": 64,
+    "description": "Blue mineral ore used for enchantment and dye.",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 78,
+    "name": "nether_gold_ore",
+    "displayName": "Nether Gold Ore",
+    "stackSize": 64,
+    "description": "Gold ore found in the dangerous Nether realm.",
+    "value": 65,
+    "rarity": 2
+  },
+  {
+    "id": 79,
+    "name": "nether_quartz_ore",
+    "displayName": "Nether Quartz Ore",
+    "stackSize": 64,
+    "description": "White crystalline ore unique to the Nether.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 84,
+    "name": "raw_gold_block",
+    "displayName": "Block of Raw Gold",
+    "stackSize": 64,
+    "description": "Unrefined block of pure gold material.",
+    "value": 75,
+    "rarity": 2
+  },
+  {
+    "id": 86,
+    "name": "amethyst_block",
+    "displayName": "Block of Amethyst",
+    "stackSize": 64,
+    "description": "Smooth, crystalline block of vibrant purple amethyst.",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 90,
+    "name": "gold_block",
+    "displayName": "Block of Gold",
+    "stackSize": 64,
+    "description": "Solid block of precious, gleaming gold.",
+    "value": 80,
+    "rarity": 2
+  },
+  {
+    "id": 94,
+    "name": "weathered_copper",
+    "displayName": "Weathered Copper",
+    "stackSize": 64,
+    "description": "Copper block with significant green oxidation.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 95,
+    "name": "oxidized_copper",
+    "displayName": "Oxidized Copper",
+    "stackSize": 64,
+    "description": "Fully oxidized copper block with complete patina.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 102,
+    "name": "weathered_cut_copper",
+    "displayName": "Weathered Cut Copper",
+    "stackSize": 64,
+    "description": "Cut copper block with significant green oxidation.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 103,
+    "name": "oxidized_cut_copper",
+    "displayName": "Oxidized Cut Copper",
+    "stackSize": 64,
+    "description": "Fully oxidized cut copper with complete patina.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 104,
+    "name": "cut_copper_stairs",
+    "displayName": "Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Stairs crafted from precisely cut copper.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 105,
+    "name": "exposed_cut_copper_stairs",
+    "displayName": "Exposed Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Copper stairs showing early stages of oxidation.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 108,
+    "name": "cut_copper_slab",
+    "displayName": "Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Flat copper slab cut with precision.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 109,
+    "name": "exposed_cut_copper_slab",
+    "displayName": "Exposed Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Copper slab beginning to show oxidation.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 114,
+    "name": "waxed_weathered_copper",
+    "displayName": "Waxed Weathered Copper",
+    "stackSize": 64,
+    "description": "Green-tinted copper block preserved with wax.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 115,
+    "name": "waxed_oxidized_copper",
+    "displayName": "Waxed Oxidized Copper",
+    "stackSize": 64,
+    "description": "Fully oxidized copper block protected by wax.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 122,
+    "name": "waxed_weathered_cut_copper",
+    "displayName": "Waxed Weathered Cut Copper",
+    "stackSize": 64,
+    "description": "Green-tinted waxed cut copper block.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 123,
+    "name": "waxed_oxidized_cut_copper",
+    "displayName": "Waxed Oxidized Cut Copper",
+    "stackSize": 64,
+    "description": "Fully oxidized waxed cut copper block.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 124,
+    "name": "waxed_cut_copper_stairs",
+    "displayName": "Waxed Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Waxed copper stairs preventing further oxidation.",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 125,
+    "name": "waxed_exposed_cut_copper_stairs",
+    "displayName": "Waxed Exposed Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Stairs with early oxidation sealed by wax.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 128,
+    "name": "waxed_cut_copper_slab",
+    "displayName": "Waxed Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Waxed copper slab preventing oxidation process.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 129,
+    "name": "waxed_exposed_cut_copper_slab",
+    "displayName": "Waxed Exposed Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Early oxidation copper slab sealed with wax.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 137,
+    "name": "cherry_log",
+    "displayName": "Cherry Log",
+    "stackSize": 64,
+    "description": "Delicate, light-colored log from flowering cherry tree.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 140,
+    "name": "mangrove_roots",
+    "displayName": "Mangrove Roots",
+    "stackSize": 64,
+    "description": "Tangled root system of underwater mangrove trees.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 141,
+    "name": "muddy_mangrove_roots",
+    "displayName": "Muddy Mangrove Roots",
+    "stackSize": 64,
+    "description": "Mud-covered roots of swamp-dwelling mangrove trees.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 144,
+    "name": "bamboo_block",
+    "displayName": "Block of Bamboo",
+    "stackSize": 64,
+    "description": "Solid block crafted from compressed bamboo.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 150,
+    "name": "stripped_cherry_log",
+    "displayName": "Stripped Cherry Log",
+    "stackSize": 64,
+    "description": "Bark-removed log from delicate cherry tree.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 160,
+    "name": "stripped_cherry_wood",
+    "displayName": "Stripped Cherry Wood",
+    "stackSize": 64,
+    "description": "Full block of bark-removed cherry wood.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 165,
+    "name": "stripped_bamboo_block",
+    "displayName": "Block of Stripped Bamboo",
+    "stackSize": 64,
+    "description": "Stripped block of compressed bamboo material.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 171,
+    "name": "cherry_wood",
+    "displayName": "Cherry Wood",
+    "stackSize": 64,
+    "description": "Full block of solid cherry wood with bark.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 181,
+    "name": "cherry_leaves",
+    "displayName": "Cherry Leaves",
+    "stackSize": 64,
+    "description": "Delicate pink-tinged leaves of cherry tree.",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 184,
+    "name": "azalea_leaves",
+    "displayName": "Azalea Leaves",
+    "stackSize": 64,
+    "description": "Decorative leaves of the flowering azalea bush.",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 186,
+    "name": "sponge",
+    "displayName": "Sponge",
+    "stackSize": 64,
+    "description": "Absorbent block that removes water from surroundings.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 187,
+    "name": "wet_sponge",
+    "displayName": "Wet Sponge",
+    "stackSize": 64,
+    "description": "Water-saturated sponge block, ready to absorb.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 189,
+    "name": "tinted_glass",
+    "displayName": "Tinted Glass",
+    "stackSize": 64,
+    "description": "Colored glass block that blocks light transmission.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 190,
+    "name": "lapis_block",
+    "displayName": "Block of Lapis Lazuli",
+    "stackSize": 64,
+    "description": "Solid block of beautiful blue lapis lazuli.",
+    "value": 65,
+    "rarity": 2
+  },
+  {
+    "id": 197,
+    "name": "azalea",
+    "displayName": "Azalea",
+    "stackSize": 64,
+    "description": "Small bush with delicate branches and potential for growth.",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 201,
+    "name": "sea_pickle",
+    "displayName": "Sea Pickle",
+    "stackSize": 64,
+    "description": "Bioluminescent marine organism found in warm oceans.",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 229,
+    "name": "lily_of_the_valley",
+    "displayName": "Lily of the Valley",
+    "stackSize": 64,
+    "description": "Small, delicate white flowers in clusters.",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 231,
+    "name": "torchflower",
+    "displayName": "Torchflower",
+    "stackSize": 64,
+    "description": "Unique flower that provides light and decoration.",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 232,
+    "name": "pitcher_plant",
+    "displayName": "Pitcher Plant",
+    "stackSize": 64,
+    "description": "Large, decorative plant with unique growing mechanics.",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 246,
+    "name": "pink_petals",
+    "displayName": "Pink Petals",
+    "stackSize": 64,
+    "description": "Delicate pink flower petals scattered across the ground",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 248,
+    "name": "hanging_roots",
+    "displayName": "Hanging Roots",
+    "stackSize": 64,
+    "description": "Organic roots dangling, symbolizing underground natural connections",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 249,
+    "name": "big_dripleaf",
+    "displayName": "Big Dripleaf",
+    "stackSize": 64,
+    "description": "Large, dynamic leaf that tilts under player movement",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 250,
+    "name": "small_dripleaf",
+    "displayName": "Small Dripleaf",
+    "stackSize": 64,
+    "description": "Compact, delicate leaf adding subtle natural detail",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 257,
+    "name": "cherry_slab",
+    "displayName": "Cherry Slab",
+    "stackSize": 64,
+    "description": "Delicate cherry wood slab with soft, elegant grain",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 261,
+    "name": "bamboo_mosaic_slab",
+    "displayName": "Bamboo Mosaic Slab",
+    "stackSize": 64,
+    "description": "Intricate bamboo mosaic slab with complex pattern",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 262,
+    "name": "crimson_slab",
+    "displayName": "Crimson Slab",
+    "stackSize": 64,
+    "description": "Vibrant crimson Nether wood slab with intense color",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 263,
+    "name": "warped_slab",
+    "displayName": "Warped Slab",
+    "stackSize": 64,
+    "description": "Mysterious warped Nether wood slab with ethereal tone",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 267,
+    "name": "cut_sandstone_slab",
+    "displayName": "Cut Sandstone Slab",
+    "stackSize": 64,
+    "description": "Precisely cut sandstone slab with clean edges",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 272,
+    "name": "mud_brick_slab",
+    "displayName": "Mud Brick Slab",
+    "stackSize": 64,
+    "description": "Earthy mud brick slab with natural, organic feel",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 273,
+    "name": "nether_brick_slab",
+    "displayName": "Nether Brick Slab",
+    "stackSize": 64,
+    "description": "Intense Nether brick slab with fiery, dark appearance",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 274,
+    "name": "quartz_slab",
+    "displayName": "Quartz Slab",
+    "stackSize": 64,
+    "description": "Pristine quartz slab radiating pure, luminous aesthetic",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 276,
+    "name": "cut_red_sandstone_slab",
+    "displayName": "Cut Red Sandstone Slab",
+    "stackSize": 64,
+    "description": "Precisely cut red sandstone slab with clean finish",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 278,
+    "name": "prismarine_slab",
+    "displayName": "Prismarine Slab",
+    "stackSize": 64,
+    "description": "Oceanic prismarine slab with blue-green crystalline texture",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 279,
+    "name": "prismarine_brick_slab",
+    "displayName": "Prismarine Brick Slab",
+    "stackSize": 64,
+    "description": "Refined prismarine brick slab with smooth surface",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 281,
+    "name": "smooth_quartz",
+    "displayName": "Smooth Quartz Block",
+    "stackSize": 64,
+    "description": "Pristine smooth quartz block with pure, luminous appearance",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 282,
+    "name": "smooth_red_sandstone",
+    "displayName": "Smooth Red Sandstone",
+    "stackSize": 64,
+    "description": "Refined red sandstone with uniform, polished surface",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 286,
+    "name": "bookshelf",
+    "displayName": "Bookshelf",
+    "stackSize": 64,
+    "description": "Wooden shelf filled with knowledge and literary potential",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 310,
+    "name": "jukebox",
+    "displayName": "Jukebox",
+    "stackSize": 64,
+    "description": "Musical block for playing and enjoying sound records",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 318,
+    "name": "mangrove_fence",
+    "displayName": "Mangrove Fence",
+    "stackSize": 64,
+    "description": "Unique reddish-brown wooden barrier from swampy regions",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 319,
+    "name": "bamboo_fence",
+    "displayName": "Bamboo Fence",
+    "stackSize": 64,
+    "description": "Light wooden barrier with distinctive natural texture",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 323,
+    "name": "carved_pumpkin",
+    "displayName": "Carved Pumpkin",
+    "stackSize": 64,
+    "description": "Decorative block with face carved for spooky aesthetics",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 324,
+    "name": "jack_o_lantern",
+    "displayName": "Jack o'Lantern",
+    "stackSize": 64,
+    "description": "Illuminated carved pumpkin with internal light source",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 326,
+    "name": "soul_sand",
+    "displayName": "Soul Sand",
+    "stackSize": 64,
+    "description": "Slow-moving sand block from mysterious Nether regions",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 327,
+    "name": "soul_soil",
+    "displayName": "Soul Soil",
+    "stackSize": 64,
+    "description": "Dark earth block representing spiritual Nether landscape",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 328,
+    "name": "basalt",
+    "displayName": "Basalt",
+    "stackSize": 64,
+    "description": "Dark volcanic rock with hexagonal columnar structure",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 330,
+    "name": "smooth_basalt",
+    "displayName": "Smooth Basalt",
+    "stackSize": 64,
+    "description": "Uniform basalt block with minimal textural variation",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 331,
+    "name": "soul_torch",
+    "displayName": "Soul Torch",
+    "stackSize": 64,
+    "description": "Ethereal light source with mysterious blue-green glow",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 335,
+    "name": "infested_stone_bricks",
+    "displayName": "Infested Stone Bricks",
+    "stackSize": 64,
+    "description": "Deceptive brick block concealing dangerous silverfish",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 336,
+    "name": "infested_mossy_stone_bricks",
+    "displayName": "Infested Mossy Stone Bricks",
+    "stackSize": 64,
+    "description": "Moss-covered brick block hiding silverfish threat",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 337,
+    "name": "infested_cracked_stone_bricks",
+    "displayName": "Infested Cracked Stone Bricks",
+    "stackSize": 64,
+    "description": "Damaged brick block secretly hosting silverfish",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 341,
+    "name": "mossy_stone_bricks",
+    "displayName": "Mossy Stone Bricks",
+    "stackSize": 64,
+    "description": "Stone bricks covered in organic green growth",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 343,
+    "name": "chiseled_stone_bricks",
+    "displayName": "Chiseled Stone Bricks",
+    "stackSize": 64,
+    "description": "Intricately carved stone block with decorative details",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 345,
+    "name": "mud_bricks",
+    "displayName": "Mud Bricks",
+    "stackSize": 64,
+    "description": "Earthy construction block representing traditional clay crafting",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 346,
+    "name": "deepslate_bricks",
+    "displayName": "Deepslate Bricks",
+    "stackSize": 64,
+    "description": "Dark underground stone bricks with deep, textured appearance",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 347,
+    "name": "cracked_deepslate_bricks",
+    "displayName": "Cracked Deepslate Bricks",
+    "stackSize": 64,
+    "description": "Damaged deepslate bricks suggesting aged subterranean structures",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 352,
+    "name": "brown_mushroom_block",
+    "displayName": "Brown Mushroom Block",
+    "stackSize": 64,
+    "description": "Organic block representing brown mushroom's unique texture",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 353,
+    "name": "red_mushroom_block",
+    "displayName": "Red Mushroom Block",
+    "stackSize": 64,
+    "description": "Vibrant red block mimicking mushroom's distinctive appearance",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 354,
+    "name": "mushroom_stem",
+    "displayName": "Mushroom Stem",
+    "stackSize": 64,
+    "description": "Pale, neutral block representing mushroom's central structure",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 360,
+    "name": "glow_lichen",
+    "displayName": "Glow Lichen",
+    "stackSize": 64,
+    "description": "Luminescent organic growth providing subtle environmental light",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 363,
+    "name": "mud_brick_stairs",
+    "displayName": "Mud Brick Stairs",
+    "stackSize": 64,
+    "description": "Earthy stairs representing traditional clay construction",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 364,
+    "name": "mycelium",
+    "displayName": "Mycelium",
+    "stackSize": 64,
+    "description": "Mysterious underground surface hosting fungal ecosystem",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 390,
+    "name": "mangrove_stairs",
+    "displayName": "Mangrove Stairs",
+    "stackSize": 64,
+    "description": "Unique reddish-brown wooden steps from swampy regions",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 391,
+    "name": "bamboo_stairs",
+    "displayName": "Bamboo Stairs",
+    "stackSize": 64,
+    "description": "Light wooden steps with distinctive natural texture",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 402,
+    "name": "mossy_stone_brick_wall",
+    "displayName": "Mossy Stone Brick Wall",
+    "stackSize": 64,
+    "description": "Aged stone brick barrier with natural green overlay",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 405,
+    "name": "mud_brick_wall",
+    "displayName": "Mud Brick Wall",
+    "stackSize": 64,
+    "description": "Earthy barrier representing traditional clay construction",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 412,
+    "name": "blackstone_wall",
+    "displayName": "Blackstone Wall",
+    "stackSize": 64,
+    "description": "Dark volcanic stone barrier with intense black coloration",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 413,
+    "name": "polished_blackstone_wall",
+    "displayName": "Polished Blackstone Wall",
+    "stackSize": 64,
+    "description": "Refined black stone barrier with smooth surface",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 415,
+    "name": "cobbled_deepslate_wall",
+    "displayName": "Cobbled Deepslate Wall",
+    "stackSize": 64,
+    "description": "Rough deep underground stone barrier",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 416,
+    "name": "polished_deepslate_wall",
+    "displayName": "Polished Deepslate Wall",
+    "stackSize": 64,
+    "description": "Smooth deepslate barrier with uniform underground texture",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 419,
+    "name": "anvil",
+    "displayName": "Anvil",
+    "stackSize": 64,
+    "description": "Essential metalworking block for repairing and modifying items",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 420,
+    "name": "chipped_anvil",
+    "displayName": "Chipped Anvil",
+    "stackSize": 64,
+    "description": "Slightly damaged metalworking block with reduced functionality",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 421,
+    "name": "damaged_anvil",
+    "displayName": "Damaged Anvil",
+    "stackSize": 64,
+    "description": "Heavily worn metalworking block with minimal utility",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 422,
+    "name": "chiseled_quartz_block",
+    "displayName": "Chiseled Quartz Block",
+    "stackSize": 64,
+    "description": "Ornate white block with intricate carved details",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 424,
+    "name": "quartz_bricks",
+    "displayName": "Quartz Bricks",
+    "stackSize": 64,
+    "description": "Refined white brick block with precise geometric layout",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 425,
+    "name": "quartz_pillar",
+    "displayName": "Quartz Pillar",
+    "stackSize": 64,
+    "description": "Vertical white block with elegant columnar design",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 426,
+    "name": "quartz_stairs",
+    "displayName": "Quartz Stairs",
+    "stackSize": 64,
+    "description": "Pristine white steps with luminous architectural style",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 429,
+    "name": "magenta_terracotta",
+    "displayName": "Magenta Terracotta",
+    "stackSize": 64,
+    "description": "Rich magenta clay block with intense purple hue",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 430,
+    "name": "light_blue_terracotta",
+    "displayName": "Light Blue Terracotta",
+    "stackSize": 64,
+    "description": "Soft blue clay block with pastel appearance",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 433,
+    "name": "pink_terracotta",
+    "displayName": "Pink Terracotta",
+    "stackSize": 64,
+    "description": "Soft pink clay block with gentle pastel tone",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 436,
+    "name": "cyan_terracotta",
+    "displayName": "Cyan Terracotta",
+    "stackSize": 64,
+    "description": "Rich cyan clay block with deep aquatic color",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 437,
+    "name": "purple_terracotta",
+    "displayName": "Purple Terracotta",
+    "stackSize": 64,
+    "description": "Deep purple clay block with intense royal tone",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 438,
+    "name": "blue_terracotta",
+    "displayName": "Blue Terracotta",
+    "stackSize": 64,
+    "description": "Rich blue clay block with deep oceanic color",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 441,
+    "name": "red_terracotta",
+    "displayName": "Red Terracotta",
+    "stackSize": 64,
+    "description": "Intense red clay block with vibrant coloration",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 442,
+    "name": "black_terracotta",
+    "displayName": "Black Terracotta",
+    "stackSize": 64,
+    "description": "Deep black clay block with intense dark appearance",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 448,
+    "name": "magenta_carpet",
+    "displayName": "Magenta Carpet",
+    "stackSize": 64,
+    "description": "Rich magenta floor covering with intense purple hue",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 449,
+    "name": "light_blue_carpet",
+    "displayName": "Light Blue Carpet",
+    "stackSize": 64,
+    "description": "Soft blue floor covering with gentle pastel tone",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 452,
+    "name": "pink_carpet",
+    "displayName": "Pink Carpet",
+    "stackSize": 64,
+    "description": "Soft pink floor covering with gentle pastel tone",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 455,
+    "name": "cyan_carpet",
+    "displayName": "Cyan Carpet",
+    "stackSize": 64,
+    "description": "Rich cyan floor covering with deep aquatic color",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 456,
+    "name": "purple_carpet",
+    "displayName": "Purple Carpet",
+    "stackSize": 64,
+    "description": "Deep purple floor covering with intense royal tone",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 457,
+    "name": "blue_carpet",
+    "displayName": "Blue Carpet",
+    "stackSize": 64,
+    "description": "Rich blue floor covering with deep oceanic color",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 460,
+    "name": "red_carpet",
+    "displayName": "Red Carpet",
+    "stackSize": 64,
+    "description": "Intense red floor covering with vibrant coloration",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 461,
+    "name": "black_carpet",
+    "displayName": "Black Carpet",
+    "stackSize": 64,
+    "description": "Deep black floor covering with intense dark appearance",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 465,
+    "name": "sunflower",
+    "displayName": "Sunflower",
+    "stackSize": 64,
+    "description": "Tall yellow flower symbolizing bright summer landscapes",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 466,
+    "name": "lilac",
+    "displayName": "Lilac",
+    "stackSize": 64,
+    "description": "Elegant purple flower with delicate clustered blossoms",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 467,
+    "name": "rose_bush",
+    "displayName": "Rose Bush",
+    "stackSize": 64,
+    "description": "Classic red flowering plant representing romantic beauty",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 468,
+    "name": "peony",
+    "displayName": "Peony",
+    "stackSize": 64,
+    "description": "Large pink flower with lush, layered petals",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 472,
+    "name": "orange_stained_glass",
+    "displayName": "Orange Stained Glass",
+    "stackSize": 64,
+    "description": "Bright orange translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 473,
+    "name": "magenta_stained_glass",
+    "displayName": "Magenta Stained Glass",
+    "stackSize": 64,
+    "description": "Rich magenta translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 474,
+    "name": "light_blue_stained_glass",
+    "displayName": "Light Blue Stained Glass",
+    "stackSize": 64,
+    "description": "Soft blue translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 475,
+    "name": "yellow_stained_glass",
+    "displayName": "Yellow Stained Glass",
+    "stackSize": 64,
+    "description": "Bright yellow translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 476,
+    "name": "lime_stained_glass",
+    "displayName": "Lime Stained Glass",
+    "stackSize": 64,
+    "description": "Vibrant lime green translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 477,
+    "name": "pink_stained_glass",
+    "displayName": "Pink Stained Glass",
+    "stackSize": 64,
+    "description": "Soft pink translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 478,
+    "name": "gray_stained_glass",
+    "displayName": "Gray Stained Glass",
+    "stackSize": 64,
+    "description": "Neutral gray translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 479,
+    "name": "light_gray_stained_glass",
+    "displayName": "Light Gray Stained Glass",
+    "stackSize": 64,
+    "description": "Pale gray translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 480,
+    "name": "cyan_stained_glass",
+    "displayName": "Cyan Stained Glass",
+    "stackSize": 64,
+    "description": "Rich cyan translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 481,
+    "name": "purple_stained_glass",
+    "displayName": "Purple Stained Glass",
+    "stackSize": 64,
+    "description": "Deep purple translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 482,
+    "name": "blue_stained_glass",
+    "displayName": "Blue Stained Glass",
+    "stackSize": 64,
+    "description": "Rich blue translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 483,
+    "name": "brown_stained_glass",
+    "displayName": "Brown Stained Glass",
+    "stackSize": 64,
+    "description": "Earthy brown translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 484,
+    "name": "green_stained_glass",
+    "displayName": "Green Stained Glass",
+    "stackSize": 64,
+    "description": "Rich green translucent glass block",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 485,
+    "name": "red_stained_glass",
+    "displayName": "Red Stained Glass",
+    "stackSize": 64,
+    "description": "Intense red translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 486,
+    "name": "black_stained_glass",
+    "displayName": "Black Stained Glass",
+    "stackSize": 64,
+    "description": "Deep black translucent glass block",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 488,
+    "name": "orange_stained_glass_pane",
+    "displayName": "Orange Stained Glass Pane",
+    "stackSize": 64,
+    "description": "Bright orange translucent glass panel",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 489,
+    "name": "magenta_stained_glass_pane",
+    "displayName": "Magenta Stained Glass Pane",
+    "stackSize": 64,
+    "description": "Rich magenta translucent glass panel",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 490,
+    "name": "light_blue_stained_glass_pane",
+    "displayName": "Light Blue Stained Glass Pane",
+    "stackSize": 64,
+    "description": "Soft blue translucent glass panel",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 491,
+    "name": "yellow_stained_glass_pane",
+    "displayName": "Yellow Stained Glass Pane",
+    "stackSize": 64,
+    "description": "Bright yellow translucent glass panel",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 492,
+    "name": "lime_stained_glass_pane",
+    "displayName": "Lime Stained Glass Pane",
+    "stackSize": 64,
+    "description": "Vibrant lime green translucent glass panel",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 503,
+    "name": "prismarine",
+    "displayName": "Prismarine",
+    "stackSize": 64,
+    "description": "Aquatic stone with oceanic blue-green crystalline appearance",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 504,
+    "name": "prismarine_bricks",
+    "displayName": "Prismarine Bricks",
+    "stackSize": 64,
+    "description": "Refined prismarine blocks with smooth, polished surface",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 506,
+    "name": "prismarine_stairs",
+    "displayName": "Prismarine Stairs",
+    "stackSize": 64,
+    "description": "Oceanic stone stairs adding nautical architectural dimension",
+    "value": 38,
+    "rarity": 2
+  },
+  {
+    "id": 507,
+    "name": "prismarine_brick_stairs",
+    "displayName": "Prismarine Brick Stairs",
+    "stackSize": 64,
+    "description": "Elegant prismarine brick stairs with smooth progression",
+    "value": 42,
+    "rarity": 2
+  },
+  {
+    "id": 511,
+    "name": "chiseled_red_sandstone",
+    "displayName": "Chiseled Red Sandstone",
+    "stackSize": 64,
+    "description": "Intricately carved red sandstone with decorative patterns",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 512,
+    "name": "cut_red_sandstone",
+    "displayName": "Cut Red Sandstone",
+    "stackSize": 64,
+    "description": "Precisely cut red sandstone with smooth, refined surface",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 516,
+    "name": "magma_block",
+    "displayName": "Magma Block",
+    "stackSize": 64,
+    "description": "Fiery block simulating molten lava with intense heat",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 517,
+    "name": "nether_wart_block",
+    "displayName": "Nether Wart Block",
+    "stackSize": 64,
+    "description": "Crimson organic block from the mysterious Nether realm",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 518,
+    "name": "warped_wart_block",
+    "displayName": "Warped Wart Block",
+    "stackSize": 64,
+    "description": "Otherworldly blue-green block from the Nether's depths",
+    "value": 32,
+    "rarity": 2
+  },
+  {
+    "id": 519,
+    "name": "red_nether_bricks",
+    "displayName": "Red Nether Bricks",
+    "stackSize": 64,
+    "description": "Intense crimson bricks representing Nether's harsh landscape",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 539,
+    "name": "white_glazed_terracotta",
+    "displayName": "White Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Pristine white terracotta with intricate glazed patterns",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 540,
+    "name": "orange_glazed_terracotta",
+    "displayName": "Orange Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Warm orange terracotta with vibrant decorative design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 541,
+    "name": "magenta_glazed_terracotta",
+    "displayName": "Magenta Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Rich magenta terracotta featuring complex artistic details",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 542,
+    "name": "light_blue_glazed_terracotta",
+    "displayName": "Light Blue Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Soft blue terracotta with delicate, refined glaze",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 543,
+    "name": "yellow_glazed_terracotta",
+    "displayName": "Yellow Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Sunny yellow terracotta with intricate geometric patterns",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 544,
+    "name": "lime_glazed_terracotta",
+    "displayName": "Lime Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Zesty lime terracotta with vibrant, fresh design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 545,
+    "name": "pink_glazed_terracotta",
+    "displayName": "Pink Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Soft pink terracotta with delicate, playful glaze",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 546,
+    "name": "gray_glazed_terracotta",
+    "displayName": "Gray Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Neutral gray terracotta with sophisticated decorative elements",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 547,
+    "name": "light_gray_glazed_terracotta",
+    "displayName": "Light Gray Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Muted light gray terracotta with subtle artistic details",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 548,
+    "name": "cyan_glazed_terracotta",
+    "displayName": "Cyan Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Vibrant cyan terracotta with oceanic-inspired design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 549,
+    "name": "purple_glazed_terracotta",
+    "displayName": "Purple Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Regal purple terracotta with complex glazed patterns",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 550,
+    "name": "blue_glazed_terracotta",
+    "displayName": "Blue Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Deep blue terracotta with intricate decorative motifs",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 551,
+    "name": "brown_glazed_terracotta",
+    "displayName": "Brown Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Earthy brown terracotta reflecting natural landscape tones",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 552,
+    "name": "green_glazed_terracotta",
+    "displayName": "Green Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Forest green terracotta with organic, flowing patterns",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 553,
+    "name": "red_glazed_terracotta",
+    "displayName": "Red Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Bold red terracotta with dramatic, striking design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 554,
+    "name": "black_glazed_terracotta",
+    "displayName": "Black Glazed Terracotta",
+    "stackSize": 64,
+    "description": "Sleek black terracotta with intense, modern aesthetic",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 589,
+    "name": "dead_tube_coral_block",
+    "displayName": "Dead Tube Coral Block",
+    "stackSize": 64,
+    "description": "Bleached coral block representing marine ecosystem's fragility",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 590,
+    "name": "dead_brain_coral_block",
+    "displayName": "Dead Brain Coral Block",
+    "stackSize": 64,
+    "description": "Lifeless brain coral block reflecting oceanic changes",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 591,
+    "name": "dead_bubble_coral_block",
+    "displayName": "Dead Bubble Coral Block",
+    "stackSize": 64,
+    "description": "Pale bubble coral block symbolizing underwater transformation",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 592,
+    "name": "dead_fire_coral_block",
+    "displayName": "Dead Fire Coral Block",
+    "stackSize": 64,
+    "description": "Lifeless fire coral block signaling marine ecosystem decline",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 593,
+    "name": "dead_horn_coral_block",
+    "displayName": "Dead Horn Coral Block",
+    "stackSize": 64,
+    "description": "Pale horn coral block representing underwater transformation",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 594,
+    "name": "tube_coral_block",
+    "displayName": "Tube Coral Block",
+    "stackSize": 64,
+    "description": "Vibrant tube coral block pulsing with underwater life",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 595,
+    "name": "brain_coral_block",
+    "displayName": "Brain Coral Block",
+    "stackSize": 64,
+    "description": "Intricate brain coral block mimicking neural network patterns",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 596,
+    "name": "bubble_coral_block",
+    "displayName": "Bubble Coral Block",
+    "stackSize": 64,
+    "description": "Delicate bubble coral block with organic, spherical texture",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 597,
+    "name": "fire_coral_block",
+    "displayName": "Fire Coral Block",
+    "stackSize": 64,
+    "description": "Intense fire coral block radiating underwater energy",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 598,
+    "name": "horn_coral_block",
+    "displayName": "Horn Coral Block",
+    "stackSize": 64,
+    "description": "Unique horn coral block with distinctive marine structure",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 599,
+    "name": "tube_coral",
+    "displayName": "Tube Coral",
+    "stackSize": 64,
+    "description": "Slender tube coral representing marine ecosystem's complexity",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 600,
+    "name": "brain_coral",
+    "displayName": "Brain Coral",
+    "stackSize": 64,
+    "description": "Intricate brain-like coral with fascinating organic form",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 601,
+    "name": "bubble_coral",
+    "displayName": "Bubble Coral",
+    "stackSize": 64,
+    "description": "Delicate bubble coral with whimsical underwater presence",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 602,
+    "name": "fire_coral",
+    "displayName": "Fire Coral",
+    "stackSize": 64,
+    "description": "Vibrant fire coral adding intense color to seascape",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 603,
+    "name": "horn_coral",
+    "displayName": "Horn Coral",
+    "stackSize": 64,
+    "description": "Distinctive horn-shaped coral with unique marine design",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 604,
+    "name": "dead_brain_coral",
+    "displayName": "Dead Brain Coral",
+    "stackSize": 64,
+    "description": "Bleached brain coral symbolizing marine ecosystem's fragility",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 605,
+    "name": "dead_bubble_coral",
+    "displayName": "Dead Bubble Coral",
+    "stackSize": 64,
+    "description": "Pale bubble coral representing underwater environmental changes",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 606,
+    "name": "dead_fire_coral",
+    "displayName": "Dead Fire Coral",
+    "stackSize": 64,
+    "description": "Lifeless fire coral reflecting marine habitat transformation",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 607,
+    "name": "dead_horn_coral",
+    "displayName": "Dead Horn Coral",
+    "stackSize": 64,
+    "description": "Withered horn coral indicating oceanic ecosystem challenges",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 608,
+    "name": "dead_tube_coral",
+    "displayName": "Dead Tube Coral",
+    "stackSize": 64,
+    "description": "Bleached tube coral signaling marine environmental shifts",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 609,
+    "name": "tube_coral_fan",
+    "displayName": "Tube Coral Fan",
+    "stackSize": 64,
+    "description": "Expansive tube coral fan displaying underwater botanical diversity",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 610,
+    "name": "brain_coral_fan",
+    "displayName": "Brain Coral Fan",
+    "stackSize": 64,
+    "description": "Sprawling brain coral fan with intricate marine patterns",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 611,
+    "name": "bubble_coral_fan",
+    "displayName": "Bubble Coral Fan",
+    "stackSize": 64,
+    "description": "Delicate bubble coral fan spreading underwater charm",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 612,
+    "name": "fire_coral_fan",
+    "displayName": "Fire Coral Fan",
+    "stackSize": 64,
+    "description": "Vibrant fire coral fan radiating intense marine energy",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 613,
+    "name": "horn_coral_fan",
+    "displayName": "Horn Coral Fan",
+    "stackSize": 64,
+    "description": "Distinctive horn coral fan with unique marine structure",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 614,
+    "name": "dead_tube_coral_fan",
+    "displayName": "Dead Tube Coral Fan",
+    "stackSize": 64,
+    "description": "Pale tube coral fan representing marine ecosystem decline",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 615,
+    "name": "dead_brain_coral_fan",
+    "displayName": "Dead Brain Coral Fan",
+    "stackSize": 64,
+    "description": "Withered brain coral fan signaling environmental changes",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 616,
+    "name": "dead_bubble_coral_fan",
+    "displayName": "Dead Bubble Coral Fan",
+    "stackSize": 64,
+    "description": "Lifeless bubble coral fan reflecting oceanic challenges",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 617,
+    "name": "dead_fire_coral_fan",
+    "displayName": "Dead Fire Coral Fan",
+    "stackSize": 64,
+    "description": "Bleached fire coral fan indicating marine habitat shifts",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 618,
+    "name": "dead_horn_coral_fan",
+    "displayName": "Dead Horn Coral Fan",
+    "stackSize": 64,
+    "description": "Pale horn coral fan symbolizing underwater transformations",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 621,
+    "name": "polished_granite_stairs",
+    "displayName": "Polished Granite Stairs",
+    "stackSize": 64,
+    "description": "Refined granite stairs with smooth, elegant architectural progression",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 622,
+    "name": "smooth_red_sandstone_stairs",
+    "displayName": "Smooth Red Sandstone Stairs",
+    "stackSize": 64,
+    "description": "Sleek red sandstone stairs with uniform, desert-inspired design",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 623,
+    "name": "mossy_stone_brick_stairs",
+    "displayName": "Mossy Stone Brick Stairs",
+    "stackSize": 64,
+    "description": "Ancient stone brick stairs covered in natural moss",
+    "value": 32,
+    "rarity": 2
+  },
+  {
+    "id": 624,
+    "name": "polished_diorite_stairs",
+    "displayName": "Polished Diorite Stairs",
+    "stackSize": 64,
+    "description": "Smooth diorite stairs with clean, refined architectural lines",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 629,
+    "name": "smooth_quartz_stairs",
+    "displayName": "Smooth Quartz Stairs",
+    "stackSize": 64,
+    "description": "Pristine quartz stairs radiating pure, luminous aesthetic",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 632,
+    "name": "red_nether_brick_stairs",
+    "displayName": "Red Nether Brick Stairs",
+    "stackSize": 64,
+    "description": "Intense red Nether brick stairs with fiery appearance",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 633,
+    "name": "polished_andesite_stairs",
+    "displayName": "Polished Andesite Stairs",
+    "stackSize": 64,
+    "description": "Refined andesite stairs with smooth, sophisticated lines",
+    "value": 32,
+    "rarity": 2
+  },
+  {
+    "id": 635,
+    "name": "cobbled_deepslate_stairs",
+    "displayName": "Cobbled Deepslate Stairs",
+    "stackSize": 64,
+    "description": "Rough deepslate stairs reflecting underground geological complexity",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 636,
+    "name": "polished_deepslate_stairs",
+    "displayName": "Polished Deepslate Stairs",
+    "stackSize": 64,
+    "description": "Smooth deepslate stairs with refined, underground aesthetic",
+    "value": 38,
+    "rarity": 2
+  },
+  {
+    "id": 637,
+    "name": "deepslate_brick_stairs",
+    "displayName": "Deepslate Brick Stairs",
+    "stackSize": 64,
+    "description": "Dark deepslate brick stairs with intense, subterranean design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 638,
+    "name": "deepslate_tile_stairs",
+    "displayName": "Deepslate Tile Stairs",
+    "stackSize": 64,
+    "description": "Uniform deepslate tile stairs with consistent, dark appearance",
+    "value": 42,
+    "rarity": 2
+  },
+  {
+    "id": 641,
+    "name": "mossy_stone_brick_slab",
+    "displayName": "Mossy Stone Brick Slab",
+    "stackSize": 64,
+    "description": "Ancient stone brick slab adorned with natural moss",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 642,
+    "name": "polished_diorite_slab",
+    "displayName": "Polished Diorite Slab",
+    "stackSize": 64,
+    "description": "Smooth diorite slab with refined, clean architectural lines",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 646,
+    "name": "smooth_quartz_slab",
+    "displayName": "Smooth Quartz Slab",
+    "stackSize": 64,
+    "description": "Pristine quartz slab radiating pure, luminous aesthetic",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 649,
+    "name": "red_nether_brick_slab",
+    "displayName": "Red Nether Brick Slab",
+    "stackSize": 64,
+    "description": "Intense red Nether brick slab with fiery appearance",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 650,
+    "name": "polished_andesite_slab",
+    "displayName": "Polished Andesite Slab",
+    "stackSize": 64,
+    "description": "Refined andesite slab with smooth, sophisticated lines",
+    "value": 32,
+    "rarity": 2
+  },
+  {
+    "id": 652,
+    "name": "cobbled_deepslate_slab",
+    "displayName": "Cobbled Deepslate Slab",
+    "stackSize": 64,
+    "description": "Rough deepslate slab reflecting underground geological complexity",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 653,
+    "name": "polished_deepslate_slab",
+    "displayName": "Polished Deepslate Slab",
+    "stackSize": 64,
+    "description": "Smooth deepslate slab with refined, underground aesthetic",
+    "value": 38,
+    "rarity": 2
+  },
+  {
+    "id": 654,
+    "name": "deepslate_brick_slab",
+    "displayName": "Deepslate Brick Slab",
+    "stackSize": 64,
+    "description": "Dark deepslate brick slab with intense, subterranean design",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 655,
+    "name": "deepslate_tile_slab",
+    "displayName": "Deepslate Tile Slab",
+    "stackSize": 64,
+    "description": "Uniform deepslate tile slab with consistent, dark appearance",
+    "value": 42,
+    "rarity": 2
+  },
+  {
+    "id": 657,
+    "name": "redstone",
+    "displayName": "Redstone Dust",
+    "stackSize": 64,
+    "description": "Magical red dust powering complex mechanical contraptions",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 658,
+    "name": "redstone_torch",
+    "displayName": "Redstone Torch",
+    "stackSize": 64,
+    "description": "Unique torch signaling redstone circuit activation",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 660,
+    "name": "repeater",
+    "displayName": "Redstone Repeater",
+    "stackSize": 64,
+    "description": "Electronic component delaying and extending redstone signals",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 662,
+    "name": "piston",
+    "displayName": "Piston",
+    "stackSize": 64,
+    "description": "Mechanical device pushing and moving blocks dynamically",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 664,
+    "name": "slime_block",
+    "displayName": "Slime Block",
+    "stackSize": 64,
+    "description": "Bouncy, green block with unique elastic properties",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 665,
+    "name": "honey_block",
+    "displayName": "Honey Block",
+    "stackSize": 64,
+    "description": "Sticky golden block slowing movement and reducing fall damage",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 667,
+    "name": "hopper",
+    "displayName": "Hopper",
+    "stackSize": 64,
+    "description": "Item transportation device filtering and moving inventory",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 668,
+    "name": "dispenser",
+    "displayName": "Dispenser",
+    "stackSize": 64,
+    "description": "Mechanical block randomly dispensing stored items",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 670,
+    "name": "lectern",
+    "displayName": "Lectern",
+    "stackSize": 64,
+    "description": "Scholarly furniture enabling book reading and interaction",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 677,
+    "name": "tripwire_hook",
+    "displayName": "Tripwire Hook",
+    "stackSize": 64,
+    "description": "Stealthy trap mechanism triggering redstone signals",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 679,
+    "name": "tnt",
+    "displayName": "TNT",
+    "stackSize": 64,
+    "description": "Explosive block causing massive destructive potential",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 680,
+    "name": "redstone_lamp",
+    "displayName": "Redstone Lamp",
+    "stackSize": 64,
+    "description": "Illumination device powered by redstone circuitry",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 681,
+    "name": "note_block",
+    "displayName": "Note Block",
+    "stackSize": 64,
+    "description": "Musical block generating different sound tones",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 689,
+    "name": "cherry_button",
+    "displayName": "Cherry Button",
+    "stackSize": 64,
+    "description": "Delicate cherry wooden button with soft, elegant grain",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 693,
+    "name": "crimson_button",
+    "displayName": "Crimson Button",
+    "stackSize": 64,
+    "description": "Vibrant red button from the Nether's crimson forest",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 694,
+    "name": "warped_button",
+    "displayName": "Warped Button",
+    "stackSize": 64,
+    "description": "Unique blue-green button from Nether's warped forests",
+    "value": 15,
+    "rarity": 2
+  },
+  {
+    "id": 697,
+    "name": "light_weighted_pressure_plate",
+    "displayName": "Light Weighted Pressure Plate",
+    "stackSize": 64,
+    "description": "Sensitive gold-colored plate that detects minimal weight",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 698,
+    "name": "heavy_weighted_pressure_plate",
+    "displayName": "Heavy Weighted Pressure Plate",
+    "stackSize": 64,
+    "description": "Robust iron plate requiring significant weight",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 704,
+    "name": "cherry_pressure_plate",
+    "displayName": "Cherry Pressure Plate",
+    "stackSize": 64,
+    "description": "Delicate pink-toned pressure plate from cherry trees",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 708,
+    "name": "crimson_pressure_plate",
+    "displayName": "Crimson Pressure Plate",
+    "stackSize": 64,
+    "description": "Nether crimson forest pressure plate with unique design",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 709,
+    "name": "warped_pressure_plate",
+    "displayName": "Warped Pressure Plate",
+    "stackSize": 64,
+    "description": "Exotic blue-green pressure plate from Nether",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 710,
+    "name": "iron_door",
+    "displayName": "Iron Door",
+    "stackSize": 64,
+    "description": "Sturdy metal door with high durability",
+    "value": 75,
+    "rarity": 2
+  },
+  {
+    "id": 716,
+    "name": "cherry_door",
+    "displayName": "Cherry Door",
+    "stackSize": 64,
+    "description": "Elegant pink-toned door from delicate cherry trees",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 730,
+    "name": "iron_trapdoor",
+    "displayName": "Iron Trapdoor",
+    "stackSize": 64,
+    "description": "Heavy metal trapdoor with robust security features",
+    "value": 80,
+    "rarity": 2
+  },
+  {
+    "id": 736,
+    "name": "cherry_trapdoor",
+    "displayName": "Cherry Trapdoor",
+    "stackSize": 64,
+    "description": "Delicate pink trapdoor from ornamental cherry trees",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 755,
+    "name": "cherry_fence_gate",
+    "displayName": "Cherry Fence Gate",
+    "stackSize": 64,
+    "description": "Elegant pink fence gate from delicate cherry trees",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 761,
+    "name": "powered_rail",
+    "displayName": "Powered Rail",
+    "stackSize": 64,
+    "description": "Electrically powered rail that propels minecarts",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 762,
+    "name": "detector_rail",
+    "displayName": "Detector Rail",
+    "stackSize": 64,
+    "description": "Redstone rail that detects passing minecart presence",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 764,
+    "name": "activator_rail",
+    "displayName": "Activator Rail",
+    "stackSize": 64,
+    "description": "Special rail that activates minecart mechanisms",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 767,
+    "name": "chest_minecart",
+    "displayName": "Minecart with Chest",
+    "stackSize": 1,
+    "description": "Minecart with integrated storage chest",
+    "value": 70,
+    "rarity": 2
+  },
+  {
+    "id": 772,
+    "name": "warped_fungus_on_a_stick",
+    "displayName": "Warped Fungus on a Stick",
+    "stackSize": 1,
+    "description": "Unique Nether transportation tool for striders",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 781,
+    "name": "jungle_chest_boat",
+    "displayName": "Jungle Boat with Chest",
+    "stackSize": 1,
+    "description": "Jungle boat with spacious integrated chest",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 783,
+    "name": "acacia_chest_boat",
+    "displayName": "Acacia Boat with Chest",
+    "stackSize": 1,
+    "description": "Acacia boat with convenient storage solution",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 784,
+    "name": "cherry_boat",
+    "displayName": "Cherry Boat",
+    "stackSize": 1,
+    "description": "Delicate pink boat from ornamental cherry trees",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 785,
+    "name": "cherry_chest_boat",
+    "displayName": "Cherry Boat with Chest",
+    "stackSize": 1,
+    "description": "Cherry boat with elegant integrated chest",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 787,
+    "name": "dark_oak_chest_boat",
+    "displayName": "Dark Oak Boat with Chest",
+    "stackSize": 1,
+    "description": "Dark oak boat with additional storage chest",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 789,
+    "name": "mangrove_chest_boat",
+    "displayName": "Mangrove Boat with Chest",
+    "stackSize": 1,
+    "description": "Mangrove boat with spacious integrated storage chest",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 791,
+    "name": "bamboo_chest_raft",
+    "displayName": "Bamboo Raft with Chest",
+    "stackSize": 1,
+    "description": "Bamboo raft with convenient built-in storage chest",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 809,
+    "name": "amethyst_shard",
+    "displayName": "Amethyst Shard",
+    "stackSize": 64,
+    "description": "Magical purple crystal fragment from geode caves",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 815,
+    "name": "gold_ingot",
+    "displayName": "Gold Ingot",
+    "stackSize": 64,
+    "description": "Precious metal used for advanced crafting",
+    "value": 70,
+    "rarity": 2
+  },
+  {
+    "id": 860,
+    "name": "chainmail_helmet",
+    "displayName": "Chainmail Helmet",
+    "stackSize": 1,
+    "description": "Metallic protective headgear from chain links",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 861,
+    "name": "chainmail_chestplate",
+    "displayName": "Chainmail Chestplate",
+    "stackSize": 1,
+    "description": "Intricate chest armor made of metal rings",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 862,
+    "name": "chainmail_leggings",
+    "displayName": "Chainmail Leggings",
+    "stackSize": 1,
+    "description": "Flexible leg protection from chain links",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 863,
+    "name": "chainmail_boots",
+    "displayName": "Chainmail Boots",
+    "stackSize": 1,
+    "description": "Durable footwear crafted from interconnected rings",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 884,
+    "name": "golden_apple",
+    "displayName": "Golden Apple",
+    "stackSize": 64,
+    "description": "Valuable healing and regeneration food item",
+    "value": 70,
+    "rarity": 2
+  },
+  {
+    "id": 891,
+    "name": "cherry_sign",
+    "displayName": "Cherry Sign",
+    "stackSize": 16,
+    "description": "Delicate pink-toned sign from cherry wood groves",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 893,
+    "name": "mangrove_sign",
+    "displayName": "Mangrove Sign",
+    "stackSize": 16,
+    "description": "Swampy sign crafted from unique mangrove wood",
+    "value": 18,
+    "rarity": 2
+  },
+  {
+    "id": 897,
+    "name": "oak_hanging_sign",
+    "displayName": "Oak Hanging Sign",
+    "stackSize": 16,
+    "description": "Classic hanging sign made from traditional oak wood",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 898,
+    "name": "spruce_hanging_sign",
+    "displayName": "Spruce Hanging Sign",
+    "stackSize": 16,
+    "description": "Coniferous hanging sign with a rich brown tone",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 899,
+    "name": "birch_hanging_sign",
+    "displayName": "Birch Hanging Sign",
+    "stackSize": 16,
+    "description": "Light-colored hanging sign from pale birch wood",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 900,
+    "name": "jungle_hanging_sign",
+    "displayName": "Jungle Hanging Sign",
+    "stackSize": 16,
+    "description": "Exotic hanging sign representing dense jungle regions",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 901,
+    "name": "acacia_hanging_sign",
+    "displayName": "Acacia Hanging Sign",
+    "stackSize": 16,
+    "description": "Hanging sign from distinctive orange-tinted acacia wood",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 903,
+    "name": "dark_oak_hanging_sign",
+    "displayName": "Dark Oak Hanging Sign",
+    "stackSize": 16,
+    "description": "Sturdy hanging sign from deep, dark oak wood",
+    "value": 20,
+    "rarity": 2
+  },
+  {
+    "id": 904,
+    "name": "mangrove_hanging_sign",
+    "displayName": "Mangrove Hanging Sign",
+    "stackSize": 16,
+    "description": "Swamp-themed hanging sign with unique wood texture",
+    "value": 22,
+    "rarity": 2
+  },
+  {
+    "id": 910,
+    "name": "lava_bucket",
+    "displayName": "Lava Bucket",
+    "stackSize": 1,
+    "description": "Dangerous liquid container used for crafting and lighting",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 911,
+    "name": "powder_snow_bucket",
+    "displayName": "Powder Snow Bucket",
+    "stackSize": 1,
+    "description": "Unique bucket containing cold, powdery snow substance",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 918,
+    "name": "tropical_fish_bucket",
+    "displayName": "Bucket of Tropical Fish",
+    "stackSize": 1,
+    "description": "Colorful fish container for underwater ecosystem preservation",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 920,
+    "name": "tadpole_bucket",
+    "displayName": "Bucket of Tadpole",
+    "stackSize": 1,
+    "description": "Young amphibian stage captured in a watery environment",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 930,
+    "name": "bundle",
+    "displayName": "Bundle",
+    "stackSize": 1,
+    "description": "Inventory management item for storing multiple different items",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 933,
+    "name": "spyglass",
+    "displayName": "Spyglass",
+    "stackSize": 1,
+    "description": "Magnification tool for distant landscape and entity observation",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 937,
+    "name": "tropical_fish",
+    "displayName": "Tropical Fish",
+    "stackSize": 64,
+    "description": "Colorful marine creature with diverse patterns and colors",
+    "value": 25,
+    "rarity": 2
+  },
+  {
+    "id": 938,
+    "name": "pufferfish",
+    "displayName": "Pufferfish",
+    "stackSize": 64,
+    "description": "Spiky marine creature with defensive poisonous capabilities",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 963,
+    "name": "cake",
+    "displayName": "Cake",
+    "stackSize": 1,
+    "description": "Delectable dessert providing health restoration when eaten",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 982,
+    "name": "filled_map",
+    "displayName": "Map",
+    "stackSize": 64,
+    "description": "Detailed cartographic representation of explored terrain",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 994,
+    "name": "blaze_rod",
+    "displayName": "Blaze Rod",
+    "stackSize": 64,
+    "description": "Fiery rod dropped by blaze creatures in Nether",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 997,
+    "name": "nether_wart",
+    "displayName": "Nether Wart",
+    "stackSize": 64,
+    "description": "Crucial brewing ingredient found in Nether fortresses",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 998,
+    "name": "potion",
+    "displayName": "Potion",
+    "stackSize": 1,
+    "description": "Magical liquid providing various status effects",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1001,
+    "name": "fermented_spider_eye",
+    "displayName": "Fermented Spider Eye",
+    "stackSize": 64,
+    "description": "Processed spider eye used in complex brewing",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1002,
+    "name": "blaze_powder",
+    "displayName": "Blaze Powder",
+    "stackSize": 64,
+    "description": "Crafting ingredient created from powerful blaze rods",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1003,
+    "name": "magma_cream",
+    "displayName": "Magma Cream",
+    "stackSize": 64,
+    "description": "Hot substance combining slime and blaze powder",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1007,
+    "name": "glistering_melon_slice",
+    "displayName": "Glistering Melon Slice",
+    "stackSize": 64,
+    "description": "Golden-covered melon slice for special brewing",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1010,
+    "name": "axolotl_spawn_egg",
+    "displayName": "Axolotl Spawn Egg",
+    "stackSize": 64,
+    "description": "Cute aquatic creature's summoning magical egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1012,
+    "name": "bee_spawn_egg",
+    "displayName": "Bee Spawn Egg",
+    "stackSize": 64,
+    "description": "Pollinating insect's magical reproduction egg",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 1017,
+    "name": "camel_spawn_egg",
+    "displayName": "Camel Spawn Egg",
+    "stackSize": 64,
+    "description": "Desert-dwelling large mammal's spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1018,
+    "name": "cave_spider_spawn_egg",
+    "displayName": "Cave Spider Spawn Egg",
+    "stackSize": 64,
+    "description": "Dangerous underground arachnid's spawning egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1022,
+    "name": "creeper_spawn_egg",
+    "displayName": "Creeper Spawn Egg",
+    "stackSize": 64,
+    "description": "Infamous explosive creature's dangerous egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1023,
+    "name": "dolphin_spawn_egg",
+    "displayName": "Dolphin Spawn Egg",
+    "stackSize": 64,
+    "description": "Intelligent marine mammal's spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1025,
+    "name": "drowned_spawn_egg",
+    "displayName": "Drowned Spawn Egg",
+    "stackSize": 64,
+    "description": "Underwater zombie variant's spawning egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1029,
+    "name": "endermite_spawn_egg",
+    "displayName": "Endermite Spawn Egg",
+    "stackSize": 64,
+    "description": "Tiny purple parasitic creature's spawning egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1034,
+    "name": "glow_squid_spawn_egg",
+    "displayName": "Glow Squid Spawn Egg",
+    "stackSize": 64,
+    "description": "Luminescent underwater creature's magical egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1035,
+    "name": "goat_spawn_egg",
+    "displayName": "Goat Spawn Egg",
+    "stackSize": 64,
+    "description": "Mountain-dwelling horned animal's spawning egg",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 1037,
+    "name": "hoglin_spawn_egg",
+    "displayName": "Hoglin Spawn Egg",
+    "stackSize": 64,
+    "description": "Aggressive Nether pig-like creature's spawning egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1039,
+    "name": "husk_spawn_egg",
+    "displayName": "Husk Spawn Egg",
+    "stackSize": 64,
+    "description": "Desert zombie variant's sandy spawning egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1041,
+    "name": "llama_spawn_egg",
+    "displayName": "Llama Spawn Egg",
+    "stackSize": 64,
+    "description": "Pack-carrying mountain animal's spawning egg",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 1042,
+    "name": "magma_cube_spawn_egg",
+    "displayName": "Magma Cube Spawn Egg",
+    "stackSize": 64,
+    "description": "Bouncy Nether creature's fiery spawning egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1045,
+    "name": "ocelot_spawn_egg",
+    "displayName": "Ocelot Spawn Egg",
+    "stackSize": 64,
+    "description": "Wild jungle cat's elusive spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1046,
+    "name": "panda_spawn_egg",
+    "displayName": "Panda Spawn Egg",
+    "stackSize": 64,
+    "description": "Lazy bamboo forest creature's magical egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1053,
+    "name": "polar_bear_spawn_egg",
+    "displayName": "Polar Bear Spawn Egg",
+    "stackSize": 64,
+    "description": "Arctic predator's cold habitat spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1054,
+    "name": "pufferfish_spawn_egg",
+    "displayName": "Pufferfish Spawn Egg",
+    "stackSize": 64,
+    "description": "Defensive marine creature's spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1061,
+    "name": "skeleton_spawn_egg",
+    "displayName": "Skeleton Spawn Egg",
+    "stackSize": 64,
+    "description": "Undead archer's bone-chilling spawning egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1063,
+    "name": "slime_spawn_egg",
+    "displayName": "Slime Spawn Egg",
+    "stackSize": 64,
+    "description": "Bouncy green creature's squishy spawning egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1065,
+    "name": "snow_golem_spawn_egg",
+    "displayName": "Snow Golem Spawn Egg",
+    "stackSize": 64,
+    "description": "Friendly snow creature's magical egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1066,
+    "name": "spider_spawn_egg",
+    "displayName": "Spider Spawn Egg",
+    "stackSize": 64,
+    "description": "Hostile cave-dwelling arachnid's egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1068,
+    "name": "stray_spawn_egg",
+    "displayName": "Stray Spawn Egg",
+    "stackSize": 64,
+    "description": "Frozen skeleton variant's icy spawning egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1071,
+    "name": "trader_llama_spawn_egg",
+    "displayName": "Trader Llama Spawn Egg",
+    "stackSize": 64,
+    "description": "Wandering merchant's pack animal egg",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1072,
+    "name": "tropical_fish_spawn_egg",
+    "displayName": "Tropical Fish Spawn Egg",
+    "stackSize": 64,
+    "description": "Colorful ocean fish's magical egg",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 1073,
+    "name": "turtle_spawn_egg",
+    "displayName": "Turtle Spawn Egg",
+    "stackSize": 64,
+    "description": "Slow-moving beach-dwelling creature's egg",
+    "value": 30,
+    "rarity": 2
+  },
+  {
+    "id": 1075,
+    "name": "villager_spawn_egg",
+    "displayName": "Villager Spawn Egg",
+    "stackSize": 64,
+    "description": "Peaceful trading humanoid's magical egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1077,
+    "name": "wandering_trader_spawn_egg",
+    "displayName": "Wandering Trader Spawn Egg",
+    "stackSize": 64,
+    "description": "Mysterious traveling merchant's unique egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1084,
+    "name": "zombie_spawn_egg",
+    "displayName": "Zombie Spawn Egg",
+    "stackSize": 64,
+    "description": "Classic undead hostile mob's spawning egg",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1086,
+    "name": "zombie_villager_spawn_egg",
+    "displayName": "Zombie Villager Spawn Egg",
+    "stackSize": 64,
+    "description": "Infected villager's tragic undead spawning egg",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1089,
+    "name": "fire_charge",
+    "displayName": "Fire Charge",
+    "stackSize": 64,
+    "description": "Explosive projectile for creating fire and destruction",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1095,
+    "name": "glow_item_frame",
+    "displayName": "Glow Item Frame",
+    "stackSize": 64,
+    "description": "Luminescent frame for highlighting displayed items",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1102,
+    "name": "golden_carrot",
+    "displayName": "Golden Carrot",
+    "stackSize": 64,
+    "description": "Luxurious golden-covered carrot for special uses",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1103,
+    "name": "skeleton_skull",
+    "displayName": "Skeleton Skull",
+    "stackSize": 64,
+    "description": "Decorative undead skull from skeletal creatures",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1105,
+    "name": "player_head",
+    "displayName": "Player Head",
+    "stackSize": 64,
+    "description": "Replica of player's head for unique decoration",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1106,
+    "name": "zombie_head",
+    "displayName": "Zombie Head",
+    "stackSize": 64,
+    "description": "Undead creature's head for spooky decoration",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1116,
+    "name": "prismarine_shard",
+    "displayName": "Prismarine Shard",
+    "stackSize": 64,
+    "description": "Ocean monument fragment with unique properties",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1117,
+    "name": "prismarine_crystals",
+    "displayName": "Prismarine Crystals",
+    "stackSize": 64,
+    "description": "Rare crystalline substance from marine environments",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1120,
+    "name": "rabbit_stew",
+    "displayName": "Rabbit Stew",
+    "stackSize": 1,
+    "description": "Complex dish offering substantial hunger restoration",
+    "value": 35,
+    "rarity": 2
+  },
+  {
+    "id": 1121,
+    "name": "rabbit_foot",
+    "displayName": "Rabbit's Foot",
+    "stackSize": 64,
+    "description": "Lucky charm with potential magical properties",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1124,
+    "name": "iron_horse_armor",
+    "displayName": "Iron Horse Armor",
+    "stackSize": 1,
+    "description": "Protective gear for mounted iron-clad horses",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1129,
+    "name": "name_tag",
+    "displayName": "Name Tag",
+    "stackSize": 64,
+    "description": "Special item for naming and identifying creatures",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1152,
+    "name": "torchflower_seeds",
+    "displayName": "Torchflower Seeds",
+    "stackSize": 64,
+    "description": "Rare seeds that grow into luminous torchflowers.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1153,
+    "name": "pitcher_pod",
+    "displayName": "Pitcher Pod",
+    "stackSize": 64,
+    "description": "Unique plant pod with mysterious cultivation properties.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1158,
+    "name": "splash_potion",
+    "displayName": "Splash Potion",
+    "stackSize": 1,
+    "description": "Throwable potion with instant magical effect.",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 1160,
+    "name": "tipped_arrow",
+    "displayName": "Tipped Arrow",
+    "stackSize": 64,
+    "description": "Specialized arrow imbued with unique potion effects.",
+    "value": 65,
+    "rarity": 2
+  },
+  {
+    "id": 1161,
+    "name": "lingering_potion",
+    "displayName": "Lingering Potion",
+    "stackSize": 1,
+    "description": "Potion that creates a persistent magical cloud.",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 1168,
+    "name": "music_disc_13",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Classic music disc playing nostalgic ambient minecraft tunes.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1169,
+    "name": "music_disc_cat",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Melodic music disc with playful, rhythmic sounds.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1170,
+    "name": "music_disc_blocks",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Iconic music disc representing minecraft's blocky world.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1171,
+    "name": "music_disc_chirp",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Upbeat music disc with energetic, chirping melody.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1174,
+    "name": "music_disc_far",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Atmospheric music disc evoking distant, mysterious landscapes.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1175,
+    "name": "music_disc_mall",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Relaxed music disc with smooth, ambient soundtrack.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1176,
+    "name": "music_disc_mellohi",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Vintage-style music disc with nostalgic, mellow tones.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1177,
+    "name": "music_disc_stal",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Gritty music disc with raw, industrial undertones.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1178,
+    "name": "music_disc_strad",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Jazz-inspired music disc with improvisational rhythms.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1179,
+    "name": "music_disc_ward",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Ethereal music disc with haunting, mysterious melody.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1180,
+    "name": "music_disc_11",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Unsettling music disc with eerie, experimental sounds.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1181,
+    "name": "music_disc_wait",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Contemplative music disc with patient, slow-building composition.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1182,
+    "name": "music_disc_otherside",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Mysterious music disc revealing hidden minecraft dimensions.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1183,
+    "name": "music_disc_relic",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Ancient music disc echoing long-forgotten minecraft legends.",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 1184,
+    "name": "music_disc_5",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Rare music disc with unique, enigmatic melody.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1185,
+    "name": "music_disc_pigstep",
+    "displayName": "Music Disc",
+    "stackSize": 1,
+    "description": "Funky music disc featuring pig-themed electronic beats.",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 1190,
+    "name": "nautilus_shell",
+    "displayName": "Nautilus Shell",
+    "stackSize": 64,
+    "description": "Rare oceanic treasure with spiral geometric patterns.",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 1197,
+    "name": "skull_banner_pattern",
+    "displayName": "Banner Pattern",
+    "stackSize": 1,
+    "description": "Intimidating pattern displaying menacing skeletal imagery.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1200,
+    "name": "piglin_banner_pattern",
+    "displayName": "Banner Pattern",
+    "stackSize": 1,
+    "description": "Unique pattern capturing the essence of piglins.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1203,
+    "name": "goat_horn",
+    "displayName": "Goat Horn",
+    "stackSize": 1,
+    "description": "Powerful musical instrument used for signaling and celebration.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1215,
+    "name": "soul_lantern",
+    "displayName": "Soul Lantern",
+    "stackSize": 64,
+    "description": "Ethereal lantern with haunting blue-green spectral light.",
+    "value": 40,
+    "rarity": 2
+  },
+  {
+    "id": 1219,
+    "name": "soul_campfire",
+    "displayName": "Soul Campfire",
+    "stackSize": 64,
+    "description": "Mystical campfire with eerie blue-green spectral flames.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1220,
+    "name": "shroomlight",
+    "displayName": "Shroomlight",
+    "stackSize": 64,
+    "description": "Bioluminescent fungal light source from the Nether realm.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1231,
+    "name": "gilded_blackstone",
+    "displayName": "Gilded Blackstone",
+    "stackSize": 64,
+    "description": "Luxurious blackstone adorned with glimmering golden accents.",
+    "value": 60,
+    "rarity": 2
+  },
+  {
+    "id": 1235,
+    "name": "chiseled_polished_blackstone",
+    "displayName": "Chiseled Polished Blackstone",
+    "stackSize": 64,
+    "description": "Intricately carved blackstone with decorative geometric patterns.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1239,
+    "name": "cracked_polished_blackstone_bricks",
+    "displayName": "Cracked Polished Blackstone Bricks",
+    "stackSize": 64,
+    "description": "Weathered blackstone bricks showing signs of ancient wear.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1258,
+    "name": "small_amethyst_bud",
+    "displayName": "Small Amethyst Bud",
+    "stackSize": 64,
+    "description": "Tiny crystalline amethyst growth with delicate purple hue.",
+    "value": 45,
+    "rarity": 2
+  },
+  {
+    "id": 1259,
+    "name": "medium_amethyst_bud",
+    "displayName": "Medium Amethyst Bud",
+    "stackSize": 64,
+    "description": "Growing amethyst crystal displaying increasing crystalline complexity.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1260,
+    "name": "large_amethyst_bud",
+    "displayName": "Large Amethyst Bud",
+    "stackSize": 64,
+    "description": "Majestic amethyst crystal nearing full growth and brilliance.",
+    "value": 55,
+    "rarity": 2
+  },
+  {
+    "id": 1263,
+    "name": "ochre_froglight",
+    "displayName": "Ochre Froglight",
+    "stackSize": 64,
+    "description": "Warm, yellow-orange light source from mysterious frogs.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1264,
+    "name": "verdant_froglight",
+    "displayName": "Verdant Froglight",
+    "stackSize": 64,
+    "description": "Vibrant green light source emitted by unique frogs.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1265,
+    "name": "pearlescent_froglight",
+    "displayName": "Pearlescent Froglight",
+    "stackSize": 64,
+    "description": "Soft, iridescent light source with magical frog origins.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1288,
+    "name": "angler_pottery_sherd",
+    "displayName": "Angler Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic fragment depicting fishing and aquatic adventures.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1289,
+    "name": "archer_pottery_sherd",
+    "displayName": "Archer Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ancient pottery shard showcasing skilled archery scenes.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1290,
+    "name": "arms_up_pottery_sherd",
+    "displayName": "Arms Up Pottery Sherd",
+    "stackSize": 64,
+    "description": "Expressive pottery fragment showing raised arms symbolism.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1291,
+    "name": "blade_pottery_sherd",
+    "displayName": "Blade Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment illustrating sharp, powerful weapon imagery.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1292,
+    "name": "brewer_pottery_sherd",
+    "displayName": "Brewer Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard depicting ancient brewing and crafting traditions.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1293,
+    "name": "burn_pottery_sherd",
+    "displayName": "Burn Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment revealing dramatic scenes of fiery destruction.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1294,
+    "name": "danger_pottery_sherd",
+    "displayName": "Danger Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard warning of perilous and threatening situations.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1295,
+    "name": "explorer_pottery_sherd",
+    "displayName": "Explorer Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ancient fragment celebrating courage and adventurous spirit.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1297,
+    "name": "friend_pottery_sherd",
+    "displayName": "Friend Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic fragment symbolizing companionship and social bonds.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1299,
+    "name": "heart_pottery_sherd",
+    "displayName": "Heart Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic fragment representing love, emotion, and connection.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1300,
+    "name": "heartbreak_pottery_sherd",
+    "displayName": "Heartbreak Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery shard illustrating profound emotional suffering.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1301,
+    "name": "howl_pottery_sherd",
+    "displayName": "Howl Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ancient fragment capturing wild, primal emotional expression.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1302,
+    "name": "miner_pottery_sherd",
+    "displayName": "Miner Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard depicting underground exploration and mining.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1303,
+    "name": "mourner_pottery_sherd",
+    "displayName": "Mourner Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment expressing deep sorrow and remembrance.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1304,
+    "name": "plenty_pottery_sherd",
+    "displayName": "Plenty Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard celebrating abundance and natural prosperity.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1305,
+    "name": "prize_pottery_sherd",
+    "displayName": "Prize Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment commemorating achievement and success.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1307,
+    "name": "sheaf_pottery_sherd",
+    "displayName": "Sheaf Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment representing agricultural harvest and bounty.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1308,
+    "name": "shelter_pottery_sherd",
+    "displayName": "Shelter Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard depicting protection and safe refuge.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1309,
+    "name": "skull_pottery_sherd",
+    "displayName": "Skull Pottery Sherd",
+    "stackSize": 64,
+    "description": "Pottery fragment featuring ominous skull and mortality imagery.",
+    "value": 50,
+    "rarity": 2
+  },
+  {
+    "id": 1310,
+    "name": "snort_pottery_sherd",
+    "displayName": "Snort Pottery Sherd",
+    "stackSize": 64,
+    "description": "Ceramic shard capturing humorous, expressive creature moments.",
+    "value": 50,
+    "rarity": 2
+  }
+]
