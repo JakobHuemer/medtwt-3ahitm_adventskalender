@@ -37,6 +37,7 @@
 
 :root {
     --block-size: 10px;
+    --offset-left: 0px;
 }
 
 h1 {
@@ -45,11 +46,16 @@ h1 {
     margin-bottom: 1rem;
 }
 
+body {
+    background: rgb(108, 149, 255);
+    /*background: url("/assets/block/grid.webp") var(--offset-left) 0 / var(--block-size) repeat,*/
+    /*                url("/assets/block/ground/dirt.webp") var(--offset-left) 0 / var(--block-size);*/
+}
 
 main {
     position: absolute;
     min-height: 100svh;
-    background: red;
+    background: rgb(108, 149, 255);
 }
 
 
@@ -59,6 +65,7 @@ block-element {
     position: absolute;
 }
 
+block-group,
 block-pane,
 block-element {
     position: absolute;
