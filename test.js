@@ -1,4 +1,58 @@
 const fs = require('node:fs');
+const http = require('http');
+
+async function calculateDropPercentages(callTimes) {
+    // Array to store all drops from requests
+    const allDrops = [];
+
+    // Make multiple requests
+    for (let i = 0; i < callTimes; i++) {
+        try {
+            const response = await fetch('http://127.0.0.1:8080/api/open.php?box=2');
+            const data = await response.json();
+            allDrops.push(...data.data.drops);
+        } catch (error) {
+            console.error(`Request ${i + 1} failed:`, error);
+        }
+    }
+
+    // Calculate total number of drops
+    const totalDrops = allDrops.length;
+
+    // Get unique rarities dynamically
+    const uniqueRarities = [...new Set(allDrops.map(drop => drop.rarity))].sort((a, b) => a - b);
+
+    // Calculate percentage distribution dynamically
+    const dropCounts = {};
+    uniqueRarities.forEach(rarity => {
+        dropCounts[rarity] = allDrops.filter(d => d.rarity === rarity).length;
+    });
+
+    const dropPercentages = {};
+    uniqueRarities.forEach(rarity => {
+        dropPercentages[rarity] = ((dropCounts[rarity] / totalDrops) * 100).toFixed(2);
+    });
+
+    // Print results
+    console.log('Total Requests:', callTimes);
+    console.log('Total Drops:', totalDrops);
+    console.log('Drop Percentages:');
+    Object.entries(dropPercentages).forEach(([rarity, percentage]) => {
+        console.log(`Rarity ${rarity}: ${percentage}%`);
+    });
+
+    // Verify total adds up to 100%
+    const totalPercentage = Object.values(dropPercentages)
+        .reduce((sum, percentage) => sum + parseFloat(percentage), 0);
+
+    console.log('Total Percentage:', totalPercentage.toFixed(2) + '%');
+
+    return dropPercentages;
+}
+
+
+calculateDropPercentages(100);
+
 
 // const data = fs.readFileSync('original_items.json', "utf-8");
 // const dataDir = JSON.parse(data);
@@ -92,7 +146,7 @@ const fs = require('node:fs');
 // read htdocs/data/collectables.json array and split them by rarity level from 0 - 4
 // save in htdocs/data/lvl_{rarity}.json
 
-const collectables = JSON.parse(fs.readFileSync('htdocs/data/collectable.json', 'utf-8'));
+// const collectables = JSON.parse(fs.readFileSync('htdocs/data/collectable.json', 'utf-8'));
 
 // collectable.json
 /*
@@ -160,12 +214,55 @@ const collectables = JSON.parse(fs.readFileSync('htdocs/data/collectable.json', 
 
 // rarity Splitter ------------------------------------------------------
 
-let split = [[], [], [], [], []];
+// let split = [[], [], [], [], []];
+//
+// collectables.forEach(e => {
+//     split[e.rarity].push(e);
+// });
+//
+// for (let i = 0; i < 5; i++) {
+//     fs.writeFileSync(`htdocs/data/lvl_${ i }.json`, JSON.stringify(split[i], null, 2), 'utf-8');
+// }
 
-collectables.forEach(e => {
-    split[e.rarity].push(e);
-});
 
-for (let i = 0; i < 5; i++) {
-    fs.writeFileSync(`htdocs/data/lvl_${ i }.json`, JSON.stringify(split[i], null, 2), 'utf-8');
-}
+// -----------------------------------------------------------------------
+// webp
+// convert all png files in p = "htdocs/assets/block" recursively to webp
+
+
+// const path = require('path');
+// const sharp = require('sharp');
+//
+// async function convertPngToWebp(directory) {
+//     try {
+//         const files = await fs.promises.readdir(directory, { withFileTypes: true });
+//
+//         for (const file of files) {
+//             const fullPath = path.join(directory, file.name);
+//
+//             if (file.isDirectory()) {
+//                 await convertPngToWebp(fullPath);
+//             } else if (path.extname(file.name).toLowerCase() === '.png') {
+//                 const webpPath = fullPath.replace(/\.png$/i, '.webp');
+//
+//                 await sharp(fullPath)
+//                     .webp({
+//                         lossless: true,  // Lossless conversion
+//                         quality: 80,     // Compression level (0-100)
+//                         nearLossless: true  // Additional size optimization
+//                     })
+//                     .toFile(webpPath);
+//
+//                 console.log(`Converted: ${fullPath} -> ${webpPath}`);
+//             }
+//         }
+//     } catch (error) {
+//         console.error('Conversion error:', error);
+//     }
+// }
+//
+// const p = 'htdocs/assets/block';
+// convertPngToWebp(p);
+
+// -----------------------------------------------------------------------
+

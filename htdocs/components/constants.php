@@ -1,6 +1,6 @@
 <?php
 
-function getProbabilities(): array {
+function getWeights(): array {
     return [
         "default" => [8, 7, 3, 2],
         -1 => [3, 3, 3, 2],

@@ -11,7 +11,7 @@ $response = [
     "message" => "OK",
     "data" => [
         "rarities" => getRarityRanges(),
-        "probabilities" => getProbabilities(),
+        "probabilities" => getWeights(),
         "dropRates" => getDropRates(),
         "extraBoxProbability" => getExtraBoxProbability()
     ]
