@@ -20,6 +20,7 @@ if (($rarity = $_GET["rarity"] ?? null) !== null) {
             "data" => null
         ];
         echo json_encode($response);
+        return;
     } else {
         $filename = "../data/lvl_" . $rarity . ".json";
     }
