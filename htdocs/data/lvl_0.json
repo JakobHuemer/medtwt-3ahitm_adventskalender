@@ -1,0 +1,1730 @@
+[
+  {
+    "id": 0,
+    "name": "air",
+    "displayName": "Air",
+    "stackSize": 64,
+    "description": "Literally nothing, the void between blocks.",
+    "value": 0,
+    "rarity": 0
+  },
+  {
+    "id": 1,
+    "name": "stone",
+    "displayName": "Stone",
+    "stackSize": 64,
+    "description": "Solid rock foundation of Minecraft's underground world.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 27,
+    "name": "grass_block",
+    "displayName": "Grass Block",
+    "stackSize": 64,
+    "description": "Iconic green surface representing Minecraft's landscapes.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 28,
+    "name": "dirt",
+    "displayName": "Dirt",
+    "stackSize": 64,
+    "description": "Basic ground material, foundation of many worlds.",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 29,
+    "name": "coarse_dirt",
+    "displayName": "Coarse Dirt",
+    "stackSize": 64,
+    "description": "Rough, less fertile version of standard dirt.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 35,
+    "name": "cobblestone",
+    "displayName": "Cobblestone",
+    "stackSize": 64,
+    "description": "Rough stone blocks, classic Minecraft building material.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 36,
+    "name": "oak_planks",
+    "displayName": "Oak Planks",
+    "stackSize": 64,
+    "description": "Classic wooden planks from traditional oak trees.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 37,
+    "name": "spruce_planks",
+    "displayName": "Spruce Planks",
+    "stackSize": 64,
+    "description": "Dark wooden planks from coniferous spruce trees.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 38,
+    "name": "birch_planks",
+    "displayName": "Birch Planks",
+    "stackSize": 64,
+    "description": "Light, pale wooden planks from birch trees.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 48,
+    "name": "oak_sapling",
+    "displayName": "Oak Sapling",
+    "stackSize": 64,
+    "description": "Young tree ready to grow into a mighty oak.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 49,
+    "name": "spruce_sapling",
+    "displayName": "Spruce Sapling",
+    "stackSize": 64,
+    "description": "Young coniferous tree seedling ready to grow.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 50,
+    "name": "birch_sapling",
+    "displayName": "Birch Sapling",
+    "stackSize": 64,
+    "description": "Slender white sapling of the birch tree.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 57,
+    "name": "sand",
+    "displayName": "Sand",
+    "stackSize": 64,
+    "description": "Loose, grainy material found in deserts and beaches.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 61,
+    "name": "gravel",
+    "displayName": "Gravel",
+    "stackSize": 64,
+    "description": "Rocky, loose material common in various terrains.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 132,
+    "name": "oak_log",
+    "displayName": "Oak Log",
+    "stackSize": 64,
+    "description": "Classic wooden log from traditional oak tree.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 133,
+    "name": "spruce_log",
+    "displayName": "Spruce Log",
+    "stackSize": 64,
+    "description": "Dark, coniferous log from tall spruce tree.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 134,
+    "name": "birch_log",
+    "displayName": "Birch Log",
+    "stackSize": 64,
+    "description": "Light, smooth log from distinctive birch tree.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 145,
+    "name": "stripped_oak_log",
+    "displayName": "Stripped Oak Log",
+    "stackSize": 64,
+    "description": "Bark-removed oak log revealing smooth inner wood.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 146,
+    "name": "stripped_spruce_log",
+    "displayName": "Stripped Spruce Log",
+    "stackSize": 64,
+    "description": "Bark-removed spruce log with clean wooden surface.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 147,
+    "name": "stripped_birch_log",
+    "displayName": "Stripped Birch Log",
+    "stackSize": 64,
+    "description": "Bark-removed birch log showing pale wood interior.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 155,
+    "name": "stripped_oak_wood",
+    "displayName": "Stripped Oak Wood",
+    "stackSize": 64,
+    "description": "Full block of bark-removed oak wood.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 156,
+    "name": "stripped_spruce_wood",
+    "displayName": "Stripped Spruce Wood",
+    "stackSize": 64,
+    "description": "Full block of bark-removed spruce wood.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 157,
+    "name": "stripped_birch_wood",
+    "displayName": "Stripped Birch Wood",
+    "stackSize": 64,
+    "description": "Full block of bark-removed birch wood.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 166,
+    "name": "oak_wood",
+    "displayName": "Oak Wood",
+    "stackSize": 64,
+    "description": "Full block of solid oak wood with bark.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 167,
+    "name": "spruce_wood",
+    "displayName": "Spruce Wood",
+    "stackSize": 64,
+    "description": "Full block of solid spruce wood with bark.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 168,
+    "name": "birch_wood",
+    "displayName": "Birch Wood",
+    "stackSize": 64,
+    "description": "Full block of solid birch wood with bark.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 176,
+    "name": "oak_leaves",
+    "displayName": "Oak Leaves",
+    "stackSize": 64,
+    "description": "Green foliage from traditional oak tree.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 177,
+    "name": "spruce_leaves",
+    "displayName": "Spruce Leaves",
+    "stackSize": 64,
+    "description": "Dark green needles of the coniferous spruce tree.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 178,
+    "name": "birch_leaves",
+    "displayName": "Birch Leaves",
+    "stackSize": 64,
+    "description": "Light, delicate leaves of the birch tree.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 191,
+    "name": "sandstone",
+    "displayName": "Sandstone",
+    "stackSize": 64,
+    "description": "Solid block composed of compressed desert sand.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 196,
+    "name": "fern",
+    "displayName": "Fern",
+    "stackSize": 64,
+    "description": "Soft, green ground-covering plant in forests.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 202,
+    "name": "white_wool",
+    "displayName": "White Wool",
+    "stackSize": 64,
+    "description": "Soft, pure white wool block from sheep.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 203,
+    "name": "orange_wool",
+    "displayName": "Orange Wool",
+    "stackSize": 64,
+    "description": "Vibrant orange wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 204,
+    "name": "magenta_wool",
+    "displayName": "Magenta Wool",
+    "stackSize": 64,
+    "description": "Rich magenta wool block with deep color.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 205,
+    "name": "light_blue_wool",
+    "displayName": "Light Blue Wool",
+    "stackSize": 64,
+    "description": "Soft pastel blue wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 206,
+    "name": "yellow_wool",
+    "displayName": "Yellow Wool",
+    "stackSize": 64,
+    "description": "Bright yellow wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 207,
+    "name": "lime_wool",
+    "displayName": "Lime Wool",
+    "stackSize": 64,
+    "description": "Vibrant lime green wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 208,
+    "name": "pink_wool",
+    "displayName": "Pink Wool",
+    "stackSize": 64,
+    "description": "Delicate pink wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 209,
+    "name": "gray_wool",
+    "displayName": "Gray Wool",
+    "stackSize": 64,
+    "description": "Neutral gray wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 210,
+    "name": "light_gray_wool",
+    "displayName": "Light Gray Wool",
+    "stackSize": 64,
+    "description": "Soft light gray wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 211,
+    "name": "cyan_wool",
+    "displayName": "Cyan Wool",
+    "stackSize": 64,
+    "description": "Vibrant cyan wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 212,
+    "name": "purple_wool",
+    "displayName": "Purple Wool",
+    "stackSize": 64,
+    "description": "Rich purple wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 213,
+    "name": "blue_wool",
+    "displayName": "Blue Wool",
+    "stackSize": 64,
+    "description": "Deep blue wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 214,
+    "name": "brown_wool",
+    "displayName": "Brown Wool",
+    "stackSize": 64,
+    "description": "Warm brown wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 215,
+    "name": "green_wool",
+    "displayName": "Green Wool",
+    "stackSize": 64,
+    "description": "Forest green wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 216,
+    "name": "red_wool",
+    "displayName": "Red Wool",
+    "stackSize": 64,
+    "description": "Bright red wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 217,
+    "name": "black_wool",
+    "displayName": "Black Wool",
+    "stackSize": 64,
+    "description": "Deep black wool block from dyed sheep.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 218,
+    "name": "dandelion",
+    "displayName": "Dandelion",
+    "stackSize": 64,
+    "description": "Bright yellow flower commonly found in grassy areas.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 219,
+    "name": "poppy",
+    "displayName": "Poppy",
+    "stackSize": 64,
+    "description": "Classic red flower adding color to landscapes.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 243,
+    "name": "sugar_cane",
+    "displayName": "Sugar Cane",
+    "stackSize": 64,
+    "description": "Tall green plant used for crafting sugar.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 252,
+    "name": "oak_slab",
+    "displayName": "Oak Slab",
+    "stackSize": 64,
+    "description": "Classic oak wood slab with warm, natural texture",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 253,
+    "name": "spruce_slab",
+    "displayName": "Spruce Slab",
+    "stackSize": 64,
+    "description": "Dark spruce wood slab with rich, deep coloration",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 254,
+    "name": "birch_slab",
+    "displayName": "Birch Slab",
+    "stackSize": 64,
+    "description": "Light birch wood slab with clean, pale appearance",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 264,
+    "name": "stone_slab",
+    "displayName": "Stone Slab",
+    "stackSize": 64,
+    "description": "Basic stone slab providing fundamental architectural element",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 269,
+    "name": "cobblestone_slab",
+    "displayName": "Cobblestone Slab",
+    "stackSize": 64,
+    "description": "Rough cobblestone slab with natural, uneven texture",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 291,
+    "name": "torch",
+    "displayName": "Torch",
+    "stackSize": 64,
+    "description": "Simple light source providing warmth and illumination",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 299,
+    "name": "chest",
+    "displayName": "Chest",
+    "stackSize": 64,
+    "description": "Essential storage block for organizing items and resources",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 300,
+    "name": "crafting_table",
+    "displayName": "Crafting Table",
+    "stackSize": 64,
+    "description": "Central block for creating and combining various items",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 301,
+    "name": "farmland",
+    "displayName": "Farmland",
+    "stackSize": 64,
+    "description": "Cultivated ground block ready for planting crops",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 302,
+    "name": "furnace",
+    "displayName": "Furnace",
+    "stackSize": 64,
+    "description": "Essential block for smelting and transforming raw materials",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 303,
+    "name": "ladder",
+    "displayName": "Ladder",
+    "stackSize": 64,
+    "description": "Vertical climbing block allowing movement between different levels",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 304,
+    "name": "cobblestone_stairs",
+    "displayName": "Cobblestone Stairs",
+    "stackSize": 64,
+    "description": "Rough stone steps for elevated architectural designs",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 305,
+    "name": "snow",
+    "displayName": "Snow",
+    "stackSize": 64,
+    "description": "Light, delicate layer covering landscapes in cold biomes",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 307,
+    "name": "snow_block",
+    "displayName": "Snow Block",
+    "stackSize": 64,
+    "description": "Solid white block representing compacted winter precipitation",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 311,
+    "name": "oak_fence",
+    "displayName": "Oak Fence",
+    "stackSize": 64,
+    "description": "Classic wooden barrier for defining spaces",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 312,
+    "name": "spruce_fence",
+    "displayName": "Spruce Fence",
+    "stackSize": 64,
+    "description": "Dark wooden barrier with rustic Nordic appearance",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 313,
+    "name": "birch_fence",
+    "displayName": "Birch Fence",
+    "stackSize": 64,
+    "description": "Light wooden barrier with clean, minimal design",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 357,
+    "name": "glass_pane",
+    "displayName": "Glass Pane",
+    "stackSize": 64,
+    "description": "Transparent barrier allowing light while blocking movement",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 380,
+    "name": "sandstone_stairs",
+    "displayName": "Sandstone Stairs",
+    "stackSize": 64,
+    "description": "Desert-themed steps with warm, sandy architectural style",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 383,
+    "name": "oak_stairs",
+    "displayName": "Oak Stairs",
+    "stackSize": 64,
+    "description": "Classic wooden steps for traditional architectural designs",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 384,
+    "name": "spruce_stairs",
+    "displayName": "Spruce Stairs",
+    "stackSize": 64,
+    "description": "Dark wooden steps with rustic Nordic-inspired appearance",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 385,
+    "name": "birch_stairs",
+    "displayName": "Birch Stairs",
+    "stackSize": 64,
+    "description": "Light wooden steps with clean, minimalist design",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 397,
+    "name": "cobblestone_wall",
+    "displayName": "Cobblestone Wall",
+    "stackSize": 64,
+    "description": "Rough stone barrier for defining rustic boundaries",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 409,
+    "name": "sandstone_wall",
+    "displayName": "Sandstone Wall",
+    "stackSize": 64,
+    "description": "Desert-themed barrier with warm, sandy appearance",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 446,
+    "name": "white_carpet",
+    "displayName": "White Carpet",
+    "stackSize": 64,
+    "description": "Pure white floor covering with soft, uniform appearance",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 464,
+    "name": "dirt_path",
+    "displayName": "Dirt Path",
+    "stackSize": 64,
+    "description": "Worn earth surface representing traveled ground",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 469,
+    "name": "tall_grass",
+    "displayName": "Tall Grass",
+    "stackSize": 64,
+    "description": "Green vegetation representing natural landscape ground cover",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 672,
+    "name": "lever",
+    "displayName": "Lever",
+    "stackSize": 64,
+    "description": "Simple mechanical switch toggling redstone circuits",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 682,
+    "name": "stone_button",
+    "displayName": "Stone Button",
+    "stackSize": 64,
+    "description": "Basic stone button activating simple mechanisms",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 684,
+    "name": "oak_button",
+    "displayName": "Oak Button",
+    "stackSize": 64,
+    "description": "Classic wooden button with natural, rustic charm",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 685,
+    "name": "spruce_button",
+    "displayName": "Spruce Button",
+    "stackSize": 64,
+    "description": "Dark spruce wooden button with rich coloration",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 686,
+    "name": "birch_button",
+    "displayName": "Birch Button",
+    "stackSize": 64,
+    "description": "Light birch wooden button with clean, pale appearance",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 695,
+    "name": "stone_pressure_plate",
+    "displayName": "Stone Pressure Plate",
+    "stackSize": 64,
+    "description": "Basic stone activation mechanism for redstone circuits",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 699,
+    "name": "oak_pressure_plate",
+    "displayName": "Oak Pressure Plate",
+    "stackSize": 64,
+    "description": "Traditional wooden pressure plate from oak trees",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 700,
+    "name": "spruce_pressure_plate",
+    "displayName": "Spruce Pressure Plate",
+    "stackSize": 64,
+    "description": "Dark wooden pressure plate from spruce forests",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 701,
+    "name": "birch_pressure_plate",
+    "displayName": "Birch Pressure Plate",
+    "stackSize": 64,
+    "description": "Light-colored wooden pressure plate from birch trees",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 711,
+    "name": "oak_door",
+    "displayName": "Oak Door",
+    "stackSize": 64,
+    "description": "Classic wooden door from traditional oak trees",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 712,
+    "name": "spruce_door",
+    "displayName": "Spruce Door",
+    "stackSize": 64,
+    "description": "Dark wooden door from northern spruce forests",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 713,
+    "name": "birch_door",
+    "displayName": "Birch Door",
+    "stackSize": 64,
+    "description": "Light and clean wooden door from birch trees",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 731,
+    "name": "oak_trapdoor",
+    "displayName": "Oak Trapdoor",
+    "stackSize": 64,
+    "description": "Standard wooden trapdoor from classic oak trees",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 732,
+    "name": "spruce_trapdoor",
+    "displayName": "Spruce Trapdoor",
+    "stackSize": 64,
+    "description": "Dark wooden trapdoor from northern spruce forests",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 733,
+    "name": "birch_trapdoor",
+    "displayName": "Birch Trapdoor",
+    "stackSize": 64,
+    "description": "Light wooden trapdoor from bright birch trees",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 750,
+    "name": "oak_fence_gate",
+    "displayName": "Oak Fence Gate",
+    "stackSize": 64,
+    "description": "Classic wooden fence gate from traditional oak trees",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 751,
+    "name": "spruce_fence_gate",
+    "displayName": "Spruce Fence Gate",
+    "stackSize": 64,
+    "description": "Dark wooden fence gate from northern spruce forests",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 752,
+    "name": "birch_fence_gate",
+    "displayName": "Birch Fence Gate",
+    "stackSize": 64,
+    "description": "Light and clean wooden fence gate from birch",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 763,
+    "name": "rail",
+    "displayName": "Rail",
+    "stackSize": 64,
+    "description": "Standard metal track for minecart transportation",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 774,
+    "name": "oak_boat",
+    "displayName": "Oak Boat",
+    "stackSize": 1,
+    "description": "Classic wooden boat crafted from oak trees",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 776,
+    "name": "spruce_boat",
+    "displayName": "Spruce Boat",
+    "stackSize": 1,
+    "description": "Dark wooden boat from northern spruce forests",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 778,
+    "name": "birch_boat",
+    "displayName": "Birch Boat",
+    "stackSize": 1,
+    "description": "Light wooden boat from bright birch trees",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 799,
+    "name": "bowl",
+    "displayName": "Bowl",
+    "stackSize": 64,
+    "description": "Simple wooden container for holding food and ingredients",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 800,
+    "name": "apple",
+    "displayName": "Apple",
+    "stackSize": 64,
+    "description": "Classic red fruit found in forest biomes",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 802,
+    "name": "arrow",
+    "displayName": "Arrow",
+    "stackSize": 64,
+    "description": "Projectile ammunition for bows and crossbows",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 803,
+    "name": "coal",
+    "displayName": "Coal",
+    "stackSize": 64,
+    "description": "Basic fuel and crafting material from underground deposits",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 804,
+    "name": "charcoal",
+    "displayName": "Charcoal",
+    "stackSize": 64,
+    "description": "Alternative fuel created by burning wood",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 810,
+    "name": "raw_iron",
+    "displayName": "Raw Iron",
+    "stackSize": 64,
+    "description": "Unprocessed iron ore before smelting",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 811,
+    "name": "iron_ingot",
+    "displayName": "Iron Ingot",
+    "stackSize": 64,
+    "description": "Refined metal crucial for crafting tools",
+    "value": 40,
+    "rarity": 0
+  },
+  {
+    "id": 812,
+    "name": "raw_copper",
+    "displayName": "Raw Copper",
+    "stackSize": 64,
+    "description": "Unprocessed copper ore before smelting",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 818,
+    "name": "wooden_sword",
+    "displayName": "Wooden Sword",
+    "stackSize": 1,
+    "description": "Basic melee weapon crafted from wooden planks",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 819,
+    "name": "wooden_shovel",
+    "displayName": "Wooden Shovel",
+    "stackSize": 1,
+    "description": "Simple digging tool made from wooden planks",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 820,
+    "name": "wooden_pickaxe",
+    "displayName": "Wooden Pickaxe",
+    "stackSize": 1,
+    "description": "Starter mining tool crafted from wooden planks",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 821,
+    "name": "wooden_axe",
+    "displayName": "Wooden Axe",
+    "stackSize": 1,
+    "description": "Basic woodcutting tool made from wooden planks",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 822,
+    "name": "wooden_hoe",
+    "displayName": "Wooden Hoe",
+    "stackSize": 1,
+    "description": "Primitive agricultural tool crafted from wood",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 823,
+    "name": "stone_sword",
+    "displayName": "Stone Sword",
+    "stackSize": 1,
+    "description": "Improved melee weapon crafted from stone",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 824,
+    "name": "stone_shovel",
+    "displayName": "Stone Shovel",
+    "stackSize": 1,
+    "description": "Durable digging tool made from stone",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 825,
+    "name": "stone_pickaxe",
+    "displayName": "Stone Pickaxe",
+    "stackSize": 1,
+    "description": "Reliable mining tool crafted from stone",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 826,
+    "name": "stone_axe",
+    "displayName": "Stone Axe",
+    "stackSize": 1,
+    "description": "Sturdy woodcutting tool made from stone",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 827,
+    "name": "stone_hoe",
+    "displayName": "Stone Hoe",
+    "stackSize": 1,
+    "description": "Basic agricultural tool crafted from stone",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 848,
+    "name": "stick",
+    "displayName": "Stick",
+    "stackSize": 64,
+    "description": "Basic crafting material for tools and weapons",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 850,
+    "name": "string",
+    "displayName": "String",
+    "stackSize": 64,
+    "description": "Versatile crafting material from spider drops",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 851,
+    "name": "feather",
+    "displayName": "Feather",
+    "stackSize": 64,
+    "description": "Lightweight item dropped by chickens",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 853,
+    "name": "wheat_seeds",
+    "displayName": "Wheat Seeds",
+    "stackSize": 64,
+    "description": "Basic agricultural planting material",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 854,
+    "name": "wheat",
+    "displayName": "Wheat",
+    "stackSize": 64,
+    "description": "Essential crop used for making bread",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 855,
+    "name": "bread",
+    "displayName": "Bread",
+    "stackSize": 64,
+    "description": "Classic food item providing basic nutrition",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 856,
+    "name": "leather_helmet",
+    "displayName": "Leather Cap",
+    "stackSize": 1,
+    "description": "Basic protective headgear made from animal hide",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 857,
+    "name": "leather_chestplate",
+    "displayName": "Leather Tunic",
+    "stackSize": 1,
+    "description": "Simple chest armor crafted from leather",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 858,
+    "name": "leather_leggings",
+    "displayName": "Leather Pants",
+    "stackSize": 1,
+    "description": "Soft protective leg covering from leather",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 859,
+    "name": "leather_boots",
+    "displayName": "Leather Boots",
+    "stackSize": 1,
+    "description": "Basic footwear protection made from leather",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 880,
+    "name": "flint",
+    "displayName": "Flint",
+    "stackSize": 64,
+    "description": "Sharp stone used for crafting tools and fire",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 881,
+    "name": "porkchop",
+    "displayName": "Raw Porkchop",
+    "stackSize": 64,
+    "description": "Raw meat dropped by pigs",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 882,
+    "name": "cooked_porkchop",
+    "displayName": "Cooked Porkchop",
+    "stackSize": 64,
+    "description": "Nutritious food item made by cooking porkchop",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 886,
+    "name": "oak_sign",
+    "displayName": "Oak Sign",
+    "stackSize": 16,
+    "description": "Wooden sign for writing messages from oak",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 887,
+    "name": "spruce_sign",
+    "displayName": "Spruce Sign",
+    "stackSize": 16,
+    "description": "Dark wooden sign from northern spruce forests",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 908,
+    "name": "bucket",
+    "displayName": "Bucket",
+    "stackSize": 16,
+    "description": "Versatile container for carrying and storing liquids",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 909,
+    "name": "water_bucket",
+    "displayName": "Water Bucket",
+    "stackSize": 1,
+    "description": "Portable water source for various crafting and survival needs",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 912,
+    "name": "snowball",
+    "displayName": "Snowball",
+    "stackSize": 16,
+    "description": "Throwable frozen projectile for playful winter combat",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 913,
+    "name": "leather",
+    "displayName": "Leather",
+    "stackSize": 64,
+    "description": "Animal hide used for crafting armor and items",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 921,
+    "name": "brick",
+    "displayName": "Brick",
+    "stackSize": 64,
+    "description": "Clay-based building block for construction and decoration",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 922,
+    "name": "clay_ball",
+    "displayName": "Clay Ball",
+    "stackSize": 64,
+    "description": "Raw clay material used for crafting and pottery",
+    "value": 8,
+    "rarity": 0
+  },
+  {
+    "id": 924,
+    "name": "paper",
+    "displayName": "Paper",
+    "stackSize": 64,
+    "description": "Crafting material essential for books and documentation",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 927,
+    "name": "egg",
+    "displayName": "Egg",
+    "stackSize": 16,
+    "description": "Potential chicken spawn item with multiple crafting uses",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 935,
+    "name": "cod",
+    "displayName": "Raw Cod",
+    "stackSize": 64,
+    "description": "Common fish found in ocean biomes, edible and craftable",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 941,
+    "name": "ink_sac",
+    "displayName": "Ink Sac",
+    "stackSize": 64,
+    "description": "Dark pigment used for writing and crafting purposes",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 944,
+    "name": "white_dye",
+    "displayName": "White Dye",
+    "stackSize": 64,
+    "description": "Pure pigment for colorful crafting and decoration",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 960,
+    "name": "bone_meal",
+    "displayName": "Bone Meal",
+    "stackSize": 64,
+    "description": "White powder used for plant growth and decoration",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 961,
+    "name": "bone",
+    "displayName": "Bone",
+    "stackSize": 64,
+    "description": "Animal remains used for crafting and bone meal",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 962,
+    "name": "sugar",
+    "displayName": "Sugar",
+    "stackSize": 64,
+    "description": "Sweet ingredient for food crafting and potion brewing",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 980,
+    "name": "cookie",
+    "displayName": "Cookie",
+    "stackSize": 64,
+    "description": "Sweet snack providing minor hunger restoration",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 984,
+    "name": "melon_slice",
+    "displayName": "Melon Slice",
+    "stackSize": 64,
+    "description": "Refreshing fruit providing nutrition and hydration",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 985,
+    "name": "dried_kelp",
+    "displayName": "Dried Kelp",
+    "stackSize": 64,
+    "description": "Processed seaweed used for food and fuel",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 986,
+    "name": "pumpkin_seeds",
+    "displayName": "Pumpkin Seeds",
+    "stackSize": 64,
+    "description": "Plantable agricultural item for growing pumpkins",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 987,
+    "name": "melon_seeds",
+    "displayName": "Melon Seeds",
+    "stackSize": 64,
+    "description": "Plantable seeds for growing nutritious melon crops",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 988,
+    "name": "beef",
+    "displayName": "Raw Beef",
+    "stackSize": 64,
+    "description": "Raw meat from cattle providing basic nutrition",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 990,
+    "name": "chicken",
+    "displayName": "Raw Chicken",
+    "stackSize": 64,
+    "description": "Raw poultry offering basic protein source",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 992,
+    "name": "rotten_flesh",
+    "displayName": "Rotten Flesh",
+    "stackSize": 64,
+    "description": "Decaying meat with potential negative health effects",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 999,
+    "name": "glass_bottle",
+    "displayName": "Glass Bottle",
+    "stackSize": 64,
+    "description": "Empty container used for brewing and collecting",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 1019,
+    "name": "chicken_spawn_egg",
+    "displayName": "Chicken Spawn Egg",
+    "stackSize": 64,
+    "description": "Farmyard bird's magical reproduction egg",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1021,
+    "name": "cow_spawn_egg",
+    "displayName": "Cow Spawn Egg",
+    "stackSize": 64,
+    "description": "Farmland cattle's magical reproduction egg",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1049,
+    "name": "pig_spawn_egg",
+    "displayName": "Pig Spawn Egg",
+    "stackSize": 64,
+    "description": "Classic farm animal's magical reproduction egg",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1058,
+    "name": "sheep_spawn_egg",
+    "displayName": "Sheep Spawn Egg",
+    "stackSize": 64,
+    "description": "Woolly farm animal's magical reproduction egg",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1096,
+    "name": "flower_pot",
+    "displayName": "Flower Pot",
+    "stackSize": 64,
+    "description": "Decorative container for displaying small plants",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1097,
+    "name": "carrot",
+    "displayName": "Carrot",
+    "stackSize": 64,
+    "description": "Orange root vegetable for food and breeding",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 1098,
+    "name": "potato",
+    "displayName": "Potato",
+    "stackSize": 64,
+    "description": "Starchy vegetable with multiple culinary uses",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 1118,
+    "name": "rabbit",
+    "displayName": "Raw Rabbit",
+    "stackSize": 64,
+    "description": "Raw meat from small hopping creature",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1131,
+    "name": "mutton",
+    "displayName": "Raw Mutton",
+    "stackSize": 64,
+    "description": "Raw meat from sheep providing basic nutrition",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1154,
+    "name": "beetroot",
+    "displayName": "Beetroot",
+    "stackSize": 64,
+    "description": "Deep red vegetable, nutritious and commonly found.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 1155,
+    "name": "beetroot_seeds",
+    "displayName": "Beetroot Seeds",
+    "stackSize": 64,
+    "description": "Small seeds for growing nutritious beetroot crops.",
+    "value": 5,
+    "rarity": 0
+  },
+  {
+    "id": 1156,
+    "name": "beetroot_soup",
+    "displayName": "Beetroot Soup",
+    "stackSize": 1,
+    "description": "Warm, hearty soup made from freshly harvested beetroots.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1165,
+    "name": "iron_nugget",
+    "displayName": "Iron Nugget",
+    "stackSize": 64,
+    "description": "Small fragment of iron, useful in crafting.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1204,
+    "name": "composter",
+    "displayName": "Composter",
+    "stackSize": 64,
+    "description": "Eco-friendly block transforming organic materials into fertilizer.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 1205,
+    "name": "barrel",
+    "displayName": "Barrel",
+    "stackSize": 64,
+    "description": "Versatile storage container for organizing items efficiently.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1214,
+    "name": "lantern",
+    "displayName": "Lantern",
+    "stackSize": 64,
+    "description": "Elegant light source providing warm, ambient illumination.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 1216,
+    "name": "sweet_berries",
+    "displayName": "Sweet Berries",
+    "stackSize": 64,
+    "description": "Delicious red berries found in forest landscapes.",
+    "value": 10,
+    "rarity": 0
+  },
+  {
+    "id": 1218,
+    "name": "campfire",
+    "displayName": "Campfire",
+    "stackSize": 64,
+    "description": "Cozy gathering spot providing light and cooking capabilities.",
+    "value": 30,
+    "rarity": 0
+  },
+  {
+    "id": 1221,
+    "name": "honeycomb",
+    "displayName": "Honeycomb",
+    "stackSize": 64,
+    "description": "Sweet, waxy product harvested from buzzing bee colonies.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1224,
+    "name": "honey_bottle",
+    "displayName": "Honey Bottle",
+    "stackSize": 16,
+    "description": "Sweet, golden liquid extracted directly from bee hives.",
+    "value": 25,
+    "rarity": 0
+  },
+  {
+    "id": 1241,
+    "name": "candle",
+    "displayName": "Candle",
+    "stackSize": 64,
+    "description": "Simple light source providing warm, ambient illumination.",
+    "value": 15,
+    "rarity": 0
+  },
+  {
+    "id": 1242,
+    "name": "white_candle",
+    "displayName": "White Candle",
+    "stackSize": 64,
+    "description": "Pure white candle bringing soft, clean illumination.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1243,
+    "name": "orange_candle",
+    "displayName": "Orange Candle",
+    "stackSize": 64,
+    "description": "Vibrant orange candle adding warm, citrusy glow.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1244,
+    "name": "magenta_candle",
+    "displayName": "Magenta Candle",
+    "stackSize": 64,
+    "description": "Bold magenta candle creating dramatic, vivid lighting.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1245,
+    "name": "light_blue_candle",
+    "displayName": "Light Blue Candle",
+    "stackSize": 64,
+    "description": "Soft light blue candle evoking calm, serene atmosphere.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1246,
+    "name": "yellow_candle",
+    "displayName": "Yellow Candle",
+    "stackSize": 64,
+    "description": "Bright yellow candle radiating sunny, cheerful energy.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1247,
+    "name": "lime_candle",
+    "displayName": "Lime Candle",
+    "stackSize": 64,
+    "description": "Energetic lime candle bringing fresh, vibrant illumination.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1248,
+    "name": "pink_candle",
+    "displayName": "Pink Candle",
+    "stackSize": 64,
+    "description": "Delicate pink candle creating soft, romantic lighting.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1249,
+    "name": "gray_candle",
+    "displayName": "Gray Candle",
+    "stackSize": 64,
+    "description": "Neutral gray candle providing subtle, understated ambiance.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1250,
+    "name": "light_gray_candle",
+    "displayName": "Light Gray Candle",
+    "stackSize": 64,
+    "description": "Soft light gray candle offering gentle, muted glow.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1251,
+    "name": "cyan_candle",
+    "displayName": "Cyan Candle",
+    "stackSize": 64,
+    "description": "Oceanic cyan candle reminiscent of tropical waters.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1252,
+    "name": "purple_candle",
+    "displayName": "Purple Candle",
+    "stackSize": 64,
+    "description": "Royal purple candle exuding mysterious, regal atmosphere.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1253,
+    "name": "blue_candle",
+    "displayName": "Blue Candle",
+    "stackSize": 64,
+    "description": "Classic blue candle creating calm, deep illumination.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1254,
+    "name": "brown_candle",
+    "displayName": "Brown Candle",
+    "stackSize": 64,
+    "description": "Earthy brown candle connecting with natural, rustic ambiance.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1255,
+    "name": "green_candle",
+    "displayName": "Green Candle",
+    "stackSize": 64,
+    "description": "Forest green candle symbolizing growth and natural energy.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1256,
+    "name": "red_candle",
+    "displayName": "Red Candle",
+    "stackSize": 64,
+    "description": "Bold red candle demanding attention with passionate glow.",
+    "value": 20,
+    "rarity": 0
+  },
+  {
+    "id": 1257,
+    "name": "black_candle",
+    "displayName": "Black Candle",
+    "stackSize": 64,
+    "description": "Sleek black candle representing sophisticated, intense atmosphere.",
+    "value": 20,
+    "rarity": 0
+  }
+]

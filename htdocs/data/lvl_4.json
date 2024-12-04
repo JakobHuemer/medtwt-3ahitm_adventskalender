@@ -1,0 +1,596 @@
+[
+  {
+    "id": 56,
+    "name": "bedrock",
+    "displayName": "Bedrock",
+    "stackSize": 64,
+    "description": "Indestructible block forming the world's unbreakable foundation.",
+    "value": 0,
+    "rarity": 4
+  },
+  {
+    "id": 73,
+    "name": "deepslate_emerald_ore",
+    "displayName": "Deepslate Emerald Ore",
+    "stackSize": 64,
+    "description": "Emerald ore hidden in the deepest stone.",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 77,
+    "name": "deepslate_diamond_ore",
+    "displayName": "Deepslate Diamond Ore",
+    "stackSize": 64,
+    "description": "Rare diamond ore found in deepest caves.",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 80,
+    "name": "ancient_debris",
+    "displayName": "Ancient Debris",
+    "stackSize": 64,
+    "description": "Mysterious, rare material used to craft Netherite.",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 92,
+    "name": "netherite_block",
+    "displayName": "Block of Netherite",
+    "stackSize": 64,
+    "description": "Ultimate block of the strongest Minecraft material.",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 292,
+    "name": "end_rod",
+    "displayName": "End Rod",
+    "stackSize": 64,
+    "description": "Ethereal light source from The End's mysterious realm",
+    "value": 55,
+    "rarity": 4
+  },
+  {
+    "id": 297,
+    "name": "purpur_stairs",
+    "displayName": "Purpur Stairs",
+    "stackSize": 64,
+    "description": "Steep architectural element from The End's mysterious realm",
+    "value": 50,
+    "rarity": 4
+  },
+  {
+    "id": 298,
+    "name": "spawner",
+    "displayName": "Monster Spawner",
+    "stackSize": 64,
+    "description": "Mysterious block generating monsters in dark underground spaces",
+    "value": 70,
+    "rarity": 4
+  },
+  {
+    "id": 351,
+    "name": "reinforced_deepslate",
+    "displayName": "Reinforced Deepslate",
+    "stackSize": 64,
+    "description": "Extremely durable stone block with enhanced structural integrity",
+    "value": 60,
+    "rarity": 4
+  },
+  {
+    "id": 371,
+    "name": "sculk",
+    "displayName": "Sculk",
+    "stackSize": 64,
+    "description": "Mysterious dark block representing otherworldly ecosystem",
+    "value": 50,
+    "rarity": 4
+  },
+  {
+    "id": 372,
+    "name": "sculk_vein",
+    "displayName": "Sculk Vein",
+    "stackSize": 64,
+    "description": "Spreading organic growth with enigmatic properties",
+    "value": 45,
+    "rarity": 4
+  },
+  {
+    "id": 373,
+    "name": "sculk_catalyst",
+    "displayName": "Sculk Catalyst",
+    "stackSize": 64,
+    "description": "Mysterious block triggering complex ecosystem transformation",
+    "value": 60,
+    "rarity": 4
+  },
+  {
+    "id": 374,
+    "name": "sculk_shrieker",
+    "displayName": "Sculk Shrieker",
+    "stackSize": 64,
+    "description": "Ominous block emitting supernatural sonic disturbances",
+    "value": 55,
+    "rarity": 4
+  },
+  {
+    "id": 375,
+    "name": "enchanting_table",
+    "displayName": "Enchanting Table",
+    "stackSize": 64,
+    "description": "Magical block enabling item enhancement and transformation",
+    "value": 70,
+    "rarity": 4
+  },
+  {
+    "id": 376,
+    "name": "end_portal_frame",
+    "displayName": "End Portal Frame",
+    "stackSize": 64,
+    "description": "Mystical structure marking interdimensional travel gateway",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 379,
+    "name": "dragon_egg",
+    "displayName": "Dragon Egg",
+    "stackSize": 64,
+    "description": "Rare mystical object symbolizing ultimate realm achievement",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 381,
+    "name": "ender_chest",
+    "displayName": "Ender Chest",
+    "stackSize": 64,
+    "description": "Interdimensional storage block with mysterious purple glow",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 382,
+    "name": "emerald_block",
+    "displayName": "Block of Emerald",
+    "stackSize": 64,
+    "description": "Precious green block representing ultimate mineral wealth",
+    "value": 65,
+    "rarity": 4
+  },
+  {
+    "id": 395,
+    "name": "command_block",
+    "displayName": "Command Block",
+    "stackSize": 64,
+    "description": "Powerful administrative block controlling game mechanics",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 396,
+    "name": "beacon",
+    "displayName": "Beacon",
+    "stackSize": 64,
+    "description": "Legendary block providing powerful status effects",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 443,
+    "name": "barrier",
+    "displayName": "Barrier",
+    "stackSize": 64,
+    "description": "Invisible block preventing movement and interaction",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 444,
+    "name": "light",
+    "displayName": "Light",
+    "stackSize": 64,
+    "description": "Magical block controlling light levels in surrounding environment",
+    "value": 60,
+    "rarity": 4
+  },
+  {
+    "id": 514,
+    "name": "repeating_command_block",
+    "displayName": "Repeating Command Block",
+    "stackSize": 64,
+    "description": "Powerful command execution block with continuous functionality",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 515,
+    "name": "chain_command_block",
+    "displayName": "Chain Command Block",
+    "stackSize": 64,
+    "description": "Advanced command block enabling complex sequential operations",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 521,
+    "name": "structure_void",
+    "displayName": "Structure Void",
+    "stackSize": 64,
+    "description": "Invisible block used for complex world generation",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 588,
+    "name": "sniffer_egg",
+    "displayName": "Sniffer Egg",
+    "stackSize": 64,
+    "description": "Rare prehistoric creature's egg with mysterious origins",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 620,
+    "name": "conduit",
+    "displayName": "Conduit",
+    "stackSize": 64,
+    "description": "Mystical underwater beacon providing oceanic power and protection",
+    "value": 70,
+    "rarity": 4
+  },
+  {
+    "id": 675,
+    "name": "sculk_sensor",
+    "displayName": "Sculk Sensor",
+    "stackSize": 64,
+    "description": "Mysterious sensor detecting vibrations in the environment",
+    "value": 55,
+    "rarity": 4
+  },
+  {
+    "id": 676,
+    "name": "calibrated_sculk_sensor",
+    "displayName": "Calibrated Sculk Sensor",
+    "stackSize": 64,
+    "description": "Advanced sensor with precise environmental detection",
+    "value": 60,
+    "rarity": 4
+  },
+  {
+    "id": 773,
+    "name": "elytra",
+    "displayName": "Elytra",
+    "stackSize": 1,
+    "description": "Magical wings enabling player gliding and flight",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 792,
+    "name": "structure_block",
+    "displayName": "Structure Block",
+    "stackSize": 64,
+    "description": "Advanced block for saving and loading complex structures",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 793,
+    "name": "jigsaw",
+    "displayName": "Jigsaw Block",
+    "stackSize": 64,
+    "description": "Specialized block for procedural structure generation",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 805,
+    "name": "diamond",
+    "displayName": "Diamond",
+    "stackSize": 64,
+    "description": "Rare, valuable gemstone prized for crafting tools",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 816,
+    "name": "netherite_ingot",
+    "displayName": "Netherite Ingot",
+    "stackSize": 64,
+    "description": "Strongest and most durable crafting material",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 817,
+    "name": "netherite_scrap",
+    "displayName": "Netherite Scrap",
+    "stackSize": 64,
+    "description": "Rare material found in ancient debris",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 843,
+    "name": "netherite_sword",
+    "displayName": "Netherite Sword",
+    "stackSize": 1,
+    "description": "Ultimate melee weapon with highest durability",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 844,
+    "name": "netherite_shovel",
+    "displayName": "Netherite Shovel",
+    "stackSize": 1,
+    "description": "Indestructible digging tool from Nether materials",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 845,
+    "name": "netherite_pickaxe",
+    "displayName": "Netherite Pickaxe",
+    "stackSize": 1,
+    "description": "Most powerful mining tool in the game",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 846,
+    "name": "netherite_axe",
+    "displayName": "Netherite Axe",
+    "stackSize": 1,
+    "description": "Supreme woodcutting tool with maximum efficiency",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 847,
+    "name": "netherite_hoe",
+    "displayName": "Netherite Hoe",
+    "stackSize": 1,
+    "description": "Advanced agricultural tool from Nether technology",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 876,
+    "name": "netherite_helmet",
+    "displayName": "Netherite Helmet",
+    "stackSize": 1,
+    "description": "Ultimate protective headgear from Nether materials",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 877,
+    "name": "netherite_chestplate",
+    "displayName": "Netherite Chestplate",
+    "stackSize": 1,
+    "description": "Most durable chest armor in the game",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 878,
+    "name": "netherite_leggings",
+    "displayName": "Netherite Leggings",
+    "stackSize": 1,
+    "description": "Supreme leg protection from Nether technology",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 879,
+    "name": "netherite_boots",
+    "displayName": "Netherite Boots",
+    "stackSize": 1,
+    "description": "Indestructible footwear from advanced materials",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 885,
+    "name": "enchanted_golden_apple",
+    "displayName": "Enchanted Golden Apple",
+    "stackSize": 64,
+    "description": "Extremely rare magical healing item",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 995,
+    "name": "ghast_tear",
+    "displayName": "Ghast Tear",
+    "stackSize": 64,
+    "description": "Rare essence dropped by floating Nether ghasts",
+    "value": 70,
+    "rarity": 4
+  },
+  {
+    "id": 1006,
+    "name": "ender_eye",
+    "displayName": "Eye of Ender",
+    "stackSize": 64,
+    "description": "Mystical eye used to locate End portal",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 1026,
+    "name": "elder_guardian_spawn_egg",
+    "displayName": "Elder Guardian Spawn Egg",
+    "stackSize": 64,
+    "description": "Powerful underwater guardian's legendary egg",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 1027,
+    "name": "ender_dragon_spawn_egg",
+    "displayName": "Ender Dragon Spawn Egg",
+    "stackSize": 64,
+    "description": "Mythical end dimension's supreme boss egg",
+    "value": 100,
+    "rarity": 4
+  },
+  {
+    "id": 1059,
+    "name": "shulker_spawn_egg",
+    "displayName": "Shulker Spawn Egg",
+    "stackSize": 64,
+    "description": "Mysterious End dimension's defensive mob egg",
+    "value": 70,
+    "rarity": 4
+  },
+  {
+    "id": 1064,
+    "name": "sniffer_spawn_egg",
+    "displayName": "Sniffer Spawn Egg",
+    "stackSize": 64,
+    "description": "Ancient prehistoric creature's rare egg",
+    "value": 65,
+    "rarity": 4
+  },
+  {
+    "id": 1078,
+    "name": "warden_spawn_egg",
+    "displayName": "Warden Spawn Egg",
+    "stackSize": 64,
+    "description": "Powerful deep darkness guardian's rare egg",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 1080,
+    "name": "wither_spawn_egg",
+    "displayName": "Wither Spawn Egg",
+    "stackSize": 64,
+    "description": "Terrifying three-headed boss mob's egg",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 1108,
+    "name": "dragon_head",
+    "displayName": "Dragon Head",
+    "stackSize": 64,
+    "description": "Legendary Ender Dragon's mythical skull",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 1110,
+    "name": "nether_star",
+    "displayName": "Nether Star",
+    "stackSize": 64,
+    "description": "Legendary item dropped by Wither boss",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 1126,
+    "name": "diamond_horse_armor",
+    "displayName": "Diamond Horse Armor",
+    "stackSize": 1,
+    "description": "Ultimate protective gear for valuable mounts",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 1130,
+    "name": "command_block_minecart",
+    "displayName": "Minecart with Command Block",
+    "stackSize": 1,
+    "description": "Advanced technological item for complex mechanics",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 1149,
+    "name": "end_crystal",
+    "displayName": "End Crystal",
+    "stackSize": 64,
+    "description": "Mystical floating crystal used in End dimension rituals.",
+    "value": 75,
+    "rarity": 4
+  },
+  {
+    "id": 1157,
+    "name": "dragon_breath",
+    "displayName": "Dragon's Breath",
+    "stackSize": 64,
+    "description": "Ethereal essence collected from Ender Dragon's magical attacks.",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 1163,
+    "name": "totem_of_undying",
+    "displayName": "Totem of Undying",
+    "stackSize": 1,
+    "description": "Legendary artifact preventing death, extremely rare and powerful.",
+    "value": 95,
+    "rarity": 4
+  },
+  {
+    "id": 1167,
+    "name": "debug_stick",
+    "displayName": "Debug Stick",
+    "stackSize": 1,
+    "description": "Special tool for advanced world manipulation and testing.",
+    "value": 5,
+    "rarity": 4
+  },
+  {
+    "id": 1191,
+    "name": "heart_of_the_sea",
+    "displayName": "Heart of the Sea",
+    "stackSize": 64,
+    "description": "Mystical core representing the ocean's deepest secrets.",
+    "value": 90,
+    "rarity": 4
+  },
+  {
+    "id": 1227,
+    "name": "crying_obsidian",
+    "displayName": "Crying Obsidian",
+    "stackSize": 64,
+    "description": "Emotional, weeping obsidian with mysterious magical properties.",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 1240,
+    "name": "respawn_anchor",
+    "displayName": "Respawn Anchor",
+    "stackSize": 64,
+    "description": "Mystical Nether block used for setting respawn points.",
+    "value": 85,
+    "rarity": 4
+  },
+  {
+    "id": 1267,
+    "name": "echo_shard",
+    "displayName": "Echo Shard",
+    "stackSize": 64,
+    "description": "Mysterious fragment resonating with ancient, forgotten sounds.",
+    "value": 80,
+    "rarity": 4
+  },
+  {
+    "id": 1269,
+    "name": "netherite_upgrade_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Rare template for transforming gear to ultimate Netherite.",
+    "value": 90,
+    "rarity": 4
+  }
+]

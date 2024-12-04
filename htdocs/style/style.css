@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'minecraft';
+    src:  url('../assets/minecraft-font/woff2/minecraft-regular.woff') format('woff'),
+        url('../assets/minecraft-font/otf/minecraft-regular.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'minecraft';
+    src:  url('../assets/minecraft-font/woff2/minecraft-italic.woff') format('woff'),
+        url('../assets/minecraft-font/otf/minecraft-italic.otf') format('opentype');
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'minecraft';
+    src:  url('../assets/minecraft-font/woff2/minecraft-bold.woff') format('woff'),
+        url('../assets/minecraft-font/otf/minecraft-bold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'minecraft';
+    src:  url('../assets/minecraft-font/woff2/minecraft-bold-italic.woff') format('woff'),
+        url('../assets/minecraft-font/otf/minecraft-bold-italic.otf') format('opentype');
+    font-style: italic;
+    font-weight: bold;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "minecraft", monospace;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+

@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 33,
+    "name": "crimson_nylium",
+    "displayName": "Crimson Nylium",
+    "stackSize": 64,
+    "description": "Vivid red-purple block from the Nether.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 34,
+    "name": "warped_nylium",
+    "displayName": "Warped Nylium",
+    "stackSize": 64,
+    "description": "Striking blue-green block from Nether's warped forests.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 45,
+    "name": "crimson_planks",
+    "displayName": "Crimson Planks",
+    "stackSize": 64,
+    "description": "Vibrant red planks from Nether's crimson forests.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 46,
+    "name": "warped_planks",
+    "displayName": "Warped Planks",
+    "stackSize": 64,
+    "description": "Mystical blue-green planks from Nether's warped forests.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 47,
+    "name": "bamboo_mosaic",
+    "displayName": "Bamboo Mosaic",
+    "stackSize": 64,
+    "description": "Decorative pattern created from interlocking bamboo planks.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 58,
+    "name": "suspicious_sand",
+    "displayName": "Suspicious Sand",
+    "stackSize": 64,
+    "description": "Mysterious sand with hidden archaeological treasures.",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 59,
+    "name": "suspicious_gravel",
+    "displayName": "Suspicious Gravel",
+    "stackSize": 64,
+    "description": "Intriguing gravel concealing potential archaeological discoveries.",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 69,
+    "name": "deepslate_gold_ore",
+    "displayName": "Deepslate Gold Ore",
+    "stackSize": 64,
+    "description": "Rare gold ore hidden in deep caves.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 71,
+    "name": "deepslate_redstone_ore",
+    "displayName": "Deepslate Redstone Ore",
+    "stackSize": 64,
+    "description": "Redstone ore found in deepest underground regions.",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 72,
+    "name": "emerald_ore",
+    "displayName": "Emerald Ore",
+    "stackSize": 64,
+    "description": "Rare green gemstone ore used for trading.",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 75,
+    "name": "deepslate_lapis_ore",
+    "displayName": "Deepslate Lapis Lazuli Ore",
+    "stackSize": 64,
+    "description": "Lapis lazuli ore deep within stone layers.",
+    "value": 65,
+    "rarity": 3
+  },
+  {
+    "id": 76,
+    "name": "diamond_ore",
+    "displayName": "Diamond Ore",
+    "stackSize": 64,
+    "description": "Precious blue crystal ore for ultimate tools.",
+    "value": 90,
+    "rarity": 3
+  },
+  {
+    "id": 87,
+    "name": "budding_amethyst",
+    "displayName": "Budding Amethyst",
+    "stackSize": 64,
+    "description": "Growing amethyst crystal block with potential expansion.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 91,
+    "name": "diamond_block",
+    "displayName": "Block of Diamond",
+    "stackSize": 64,
+    "description": "Solid block of incredibly rare and valuable diamonds.",
+    "value": 95,
+    "rarity": 3
+  },
+  {
+    "id": 106,
+    "name": "weathered_cut_copper_stairs",
+    "displayName": "Weathered Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Green-tinted copper stairs with advanced oxidation.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 107,
+    "name": "oxidized_cut_copper_stairs",
+    "displayName": "Oxidized Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Fully oxidized copper stairs with blue-green color.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 110,
+    "name": "weathered_cut_copper_slab",
+    "displayName": "Weathered Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Copper slab with significant green oxidation.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 111,
+    "name": "oxidized_cut_copper_slab",
+    "displayName": "Oxidized Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Fully oxidized copper slab with blue-green patina.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 126,
+    "name": "waxed_weathered_cut_copper_stairs",
+    "displayName": "Waxed Weathered Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Green copper stairs preserved with protective wax.",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 127,
+    "name": "waxed_oxidized_cut_copper_stairs",
+    "displayName": "Waxed Oxidized Cut Copper Stairs",
+    "stackSize": 64,
+    "description": "Fully oxidized copper stairs sealed with wax.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 130,
+    "name": "waxed_weathered_cut_copper_slab",
+    "displayName": "Waxed Weathered Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Green-tinted copper slab preserved with wax.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 131,
+    "name": "waxed_oxidized_cut_copper_slab",
+    "displayName": "Waxed Oxidized Cut Copper Slab",
+    "stackSize": 64,
+    "description": "Fully oxidized copper slab sealed with wax.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 142,
+    "name": "crimson_stem",
+    "displayName": "Crimson Stem",
+    "stackSize": 64,
+    "description": "Vibrant red stem from Nether's crimson forests.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 143,
+    "name": "warped_stem",
+    "displayName": "Warped Stem",
+    "stackSize": 64,
+    "description": "Mystical blue-green stem from Nether's warped forests.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 153,
+    "name": "stripped_crimson_stem",
+    "displayName": "Stripped Crimson Stem",
+    "stackSize": 64,
+    "description": "Bark-removed stem from Nether's crimson forests.",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 154,
+    "name": "stripped_warped_stem",
+    "displayName": "Stripped Warped Stem",
+    "stackSize": 64,
+    "description": "Bark-removed stem from Nether's warped forests.",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 163,
+    "name": "stripped_crimson_hyphae",
+    "displayName": "Stripped Crimson Hyphae",
+    "stackSize": 64,
+    "description": "Stripped fungal block from Nether's crimson forest.",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 164,
+    "name": "stripped_warped_hyphae",
+    "displayName": "Stripped Warped Hyphae",
+    "stackSize": 64,
+    "description": "Stripped fungal block from Nether's warped forest.",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 174,
+    "name": "crimson_hyphae",
+    "displayName": "Crimson Hyphae",
+    "stackSize": 64,
+    "description": "Fungal block from Nether's crimson forest.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 175,
+    "name": "warped_hyphae",
+    "displayName": "Warped Hyphae",
+    "stackSize": 64,
+    "description": "Fungal block from Nether's warped forest.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 185,
+    "name": "flowering_azalea_leaves",
+    "displayName": "Flowering Azalea Leaves",
+    "stackSize": 64,
+    "description": "Blooming azalea leaves with delicate flowers.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 198,
+    "name": "flowering_azalea",
+    "displayName": "Flowering Azalea",
+    "stackSize": 64,
+    "description": "Blossoming azalea bush with beautiful delicate flowers.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 230,
+    "name": "wither_rose",
+    "displayName": "Wither Rose",
+    "stackSize": 64,
+    "description": "Black deadly rose that damages living entities.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 233,
+    "name": "spore_blossom",
+    "displayName": "Spore Blossom",
+    "stackSize": 64,
+    "description": "Hanging plant that drops spores in caves.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 236,
+    "name": "crimson_fungus",
+    "displayName": "Crimson Fungus",
+    "stackSize": 64,
+    "description": "Bright red fungus from Nether's crimson forests.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 237,
+    "name": "warped_fungus",
+    "displayName": "Warped Fungus",
+    "stackSize": 64,
+    "description": "Blue-green fungus from Nether's warped forests.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 238,
+    "name": "crimson_roots",
+    "displayName": "Crimson Roots",
+    "stackSize": 64,
+    "description": "Vibrant red roots from Nether's crimson biome.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 239,
+    "name": "warped_roots",
+    "displayName": "Warped Roots",
+    "stackSize": 64,
+    "description": "Blue-green roots from Nether's warped biome.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 240,
+    "name": "nether_sprouts",
+    "displayName": "Nether Sprouts",
+    "stackSize": 64,
+    "description": "Small, unique plant growth in the Nether.",
+    "value": 25,
+    "rarity": 3
+  },
+  {
+    "id": 241,
+    "name": "weeping_vines",
+    "displayName": "Weeping Vines",
+    "stackSize": 64,
+    "description": "Hanging red vines found in Nether caverns.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 242,
+    "name": "twisting_vines",
+    "displayName": "Twisting Vines",
+    "stackSize": 64,
+    "description": "Unique green vines found in Nether environments.",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 268,
+    "name": "petrified_oak_slab",
+    "displayName": "Petrified Oak Slab",
+    "stackSize": 64,
+    "description": "Fossilized oak slab transformed into stone-like material",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 277,
+    "name": "purpur_slab",
+    "displayName": "Purpur Slab",
+    "stackSize": 64,
+    "description": "Mysterious purpur slab with End-like ethereal quality",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 280,
+    "name": "dark_prismarine_slab",
+    "displayName": "Dark Prismarine Slab",
+    "stackSize": 64,
+    "description": "Deep dark prismarine slab with intense underwater essence",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 287,
+    "name": "chiseled_bookshelf",
+    "displayName": "Chiseled Bookshelf",
+    "stackSize": 64,
+    "description": "Intricate bookshelf with decorative carved details",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 288,
+    "name": "decorated_pot",
+    "displayName": "Decorated Pot",
+    "stackSize": 64,
+    "description": "Artfully crafted ceramic pot with unique decorative patterns",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 290,
+    "name": "obsidian",
+    "displayName": "Obsidian",
+    "stackSize": 64,
+    "description": "Dense, dark volcanic glass with mystical, impenetrable nature",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 293,
+    "name": "chorus_plant",
+    "displayName": "Chorus Plant",
+    "stackSize": 64,
+    "description": "Unique plant from The End with strange, alien structure",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 294,
+    "name": "chorus_flower",
+    "displayName": "Chorus Flower",
+    "stackSize": 64,
+    "description": "Mystical flower blooming in The End's otherworldly landscape",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 295,
+    "name": "purpur_block",
+    "displayName": "Purpur Block",
+    "stackSize": 64,
+    "description": "Mysterious block from The End with subtle, alien texture",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 296,
+    "name": "purpur_pillar",
+    "displayName": "Purpur Pillar",
+    "stackSize": 64,
+    "description": "Vertical End-world block with elegant columnar design",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 316,
+    "name": "cherry_fence",
+    "displayName": "Cherry Fence",
+    "stackSize": 64,
+    "description": "Elegant pink-tinted wooden barrier with delicate appearance",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 320,
+    "name": "crimson_fence",
+    "displayName": "Crimson Fence",
+    "stackSize": 64,
+    "description": "Intense red Nether-based wooden barrier",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 321,
+    "name": "warped_fence",
+    "displayName": "Warped Fence",
+    "stackSize": 64,
+    "description": "Mysterious blue-green Nether barrier with alien appearance",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 329,
+    "name": "polished_basalt",
+    "displayName": "Polished Basalt",
+    "stackSize": 64,
+    "description": "Refined volcanic rock with smooth, elegant surface",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 338,
+    "name": "infested_chiseled_stone_bricks",
+    "displayName": "Infested Chiseled Stone Bricks",
+    "stackSize": 64,
+    "description": "Ornate brick block with hidden silverfish infestation",
+    "value": 25,
+    "rarity": 3
+  },
+  {
+    "id": 339,
+    "name": "infested_deepslate",
+    "displayName": "Infested Deepslate",
+    "stackSize": 64,
+    "description": "Deep underground stone block harbouring hidden threats",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 348,
+    "name": "deepslate_tiles",
+    "displayName": "Deepslate Tiles",
+    "stackSize": 64,
+    "description": "Refined underground stone tiles with precise geometric layout",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 349,
+    "name": "cracked_deepslate_tiles",
+    "displayName": "Cracked Deepslate Tiles",
+    "stackSize": 64,
+    "description": "Weathered stone tiles revealing underground structural decay",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 350,
+    "name": "chiseled_deepslate",
+    "displayName": "Chiseled Deepslate",
+    "stackSize": 64,
+    "description": "Intricately carved deepslate block with decorative details",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 366,
+    "name": "nether_bricks",
+    "displayName": "Nether Bricks",
+    "stackSize": 64,
+    "description": "Dark sinister bricks representing Nether's harsh environment",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 367,
+    "name": "cracked_nether_bricks",
+    "displayName": "Cracked Nether Bricks",
+    "stackSize": 64,
+    "description": "Damaged Nether bricks suggesting intense environmental stress",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 368,
+    "name": "chiseled_nether_bricks",
+    "displayName": "Chiseled Nether Bricks",
+    "stackSize": 64,
+    "description": "Ornate Nether bricks with intricate carved details",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 369,
+    "name": "nether_brick_fence",
+    "displayName": "Nether Brick Fence",
+    "stackSize": 64,
+    "description": "Dark barrier representing Nether's hostile architectural style",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 370,
+    "name": "nether_brick_stairs",
+    "displayName": "Nether Brick Stairs",
+    "stackSize": 64,
+    "description": "Steep Nether-themed steps with intense dark appearance",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 377,
+    "name": "end_stone",
+    "displayName": "End Stone",
+    "stackSize": 64,
+    "description": "Pale alien stone representing The End's barren landscape",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 378,
+    "name": "end_stone_bricks",
+    "displayName": "End Stone Bricks",
+    "stackSize": 64,
+    "description": "Refined blocks from The End's mysterious realm",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 388,
+    "name": "cherry_stairs",
+    "displayName": "Cherry Stairs",
+    "stackSize": 64,
+    "description": "Elegant pink-tinted wooden steps with delicate appearance",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 392,
+    "name": "bamboo_mosaic_stairs",
+    "displayName": "Bamboo Mosaic Stairs",
+    "stackSize": 64,
+    "description": "Intricate stairs showcasing bamboo's woven pattern",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 393,
+    "name": "crimson_stairs",
+    "displayName": "Crimson Stairs",
+    "stackSize": 64,
+    "description": "Intense red Nether-based wooden steps",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 394,
+    "name": "warped_stairs",
+    "displayName": "Warped Stairs",
+    "stackSize": 64,
+    "description": "Mysterious blue-green Nether stairs with alien appearance",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 400,
+    "name": "prismarine_wall",
+    "displayName": "Prismarine Wall",
+    "stackSize": 64,
+    "description": "Aquatic-themed barrier with beautiful sea-green coloration",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 406,
+    "name": "nether_brick_wall",
+    "displayName": "Nether Brick Wall",
+    "stackSize": 64,
+    "description": "Dark sinister barrier from the harsh Nether environment",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 408,
+    "name": "red_nether_brick_wall",
+    "displayName": "Red Nether Brick Wall",
+    "stackSize": 64,
+    "description": "Intense red Nether barrier with unique coloration",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 410,
+    "name": "end_stone_brick_wall",
+    "displayName": "End Stone Brick Wall",
+    "stackSize": 64,
+    "description": "Pale barrier representing The End's mysterious realm",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 414,
+    "name": "polished_blackstone_brick_wall",
+    "displayName": "Polished Blackstone Brick Wall",
+    "stackSize": 64,
+    "description": "Elegant black brick barrier with precise crafting",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 417,
+    "name": "deepslate_brick_wall",
+    "displayName": "Deepslate Brick Wall",
+    "stackSize": 64,
+    "description": "Refined underground stone brick barrier",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 418,
+    "name": "deepslate_tile_wall",
+    "displayName": "Deepslate Tile Wall",
+    "stackSize": 64,
+    "description": "Precise underground stone tile barrier",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 505,
+    "name": "dark_prismarine",
+    "displayName": "Dark Prismarine",
+    "stackSize": 64,
+    "description": "Deep, rich prismarine variant with intense oceanic essence",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 508,
+    "name": "dark_prismarine_stairs",
+    "displayName": "Dark Prismarine Stairs",
+    "stackSize": 64,
+    "description": "Intense dark prismarine stairs with mysterious underwater feel",
+    "value": 47,
+    "rarity": 3
+  },
+  {
+    "id": 509,
+    "name": "sea_lantern",
+    "displayName": "Sea Lantern",
+    "stackSize": 64,
+    "description": "Luminous aquatic light source glowing with ethereal brilliance",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 522,
+    "name": "shulker_box",
+    "displayName": "Shulker Box",
+    "stackSize": 1,
+    "description": "Portable storage container that retains inventory when broken",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 523,
+    "name": "white_shulker_box",
+    "displayName": "White Shulker Box",
+    "stackSize": 1,
+    "description": "Pure white storage box for clean, organized inventories",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 524,
+    "name": "orange_shulker_box",
+    "displayName": "Orange Shulker Box",
+    "stackSize": 1,
+    "description": "Vibrant orange storage container bringing warm energy",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 525,
+    "name": "magenta_shulker_box",
+    "displayName": "Magenta Shulker Box",
+    "stackSize": 1,
+    "description": "Rich magenta box adding playful storage solution",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 526,
+    "name": "light_blue_shulker_box",
+    "displayName": "Light Blue Shulker Box",
+    "stackSize": 1,
+    "description": "Soft blue storage container with calming aesthetic",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 527,
+    "name": "yellow_shulker_box",
+    "displayName": "Yellow Shulker Box",
+    "stackSize": 1,
+    "description": "Bright yellow box radiating cheerful storage potential",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 528,
+    "name": "lime_shulker_box",
+    "displayName": "Lime Shulker Box",
+    "stackSize": 1,
+    "description": "Zesty lime green storage solution with fresh appeal",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 529,
+    "name": "pink_shulker_box",
+    "displayName": "Pink Shulker Box",
+    "stackSize": 1,
+    "description": "Soft pink storage box with delicate, feminine charm",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 530,
+    "name": "gray_shulker_box",
+    "displayName": "Gray Shulker Box",
+    "stackSize": 1,
+    "description": "Neutral gray box providing understated storage elegance",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 531,
+    "name": "light_gray_shulker_box",
+    "displayName": "Light Gray Shulker Box",
+    "stackSize": 1,
+    "description": "Muted light gray storage container with subtle design",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 532,
+    "name": "cyan_shulker_box",
+    "displayName": "Cyan Shulker Box",
+    "stackSize": 1,
+    "description": "Vibrant cyan box bringing oceanic storage style",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 533,
+    "name": "purple_shulker_box",
+    "displayName": "Purple Shulker Box",
+    "stackSize": 1,
+    "description": "Royal purple storage container with regal undertones",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 534,
+    "name": "blue_shulker_box",
+    "displayName": "Blue Shulker Box",
+    "stackSize": 1,
+    "description": "Deep blue storage solution with tranquil presence",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 535,
+    "name": "brown_shulker_box",
+    "displayName": "Brown Shulker Box",
+    "stackSize": 1,
+    "description": "Earthy brown box providing natural storage aesthetic",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 536,
+    "name": "green_shulker_box",
+    "displayName": "Green Shulker Box",
+    "stackSize": 1,
+    "description": "Forest green storage container blending with nature",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 537,
+    "name": "red_shulker_box",
+    "displayName": "Red Shulker Box",
+    "stackSize": 1,
+    "description": "Bold red storage box adding dramatic flair",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 538,
+    "name": "black_shulker_box",
+    "displayName": "Black Shulker Box",
+    "stackSize": 1,
+    "description": "Sleek black storage solution with modern appeal",
+    "value": 62,
+    "rarity": 3
+  },
+  {
+    "id": 587,
+    "name": "turtle_egg",
+    "displayName": "Turtle Egg",
+    "stackSize": 64,
+    "description": "Delicate ocean-dwelling creature's egg with potential life",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 619,
+    "name": "blue_ice",
+    "displayName": "Blue Ice",
+    "stackSize": 64,
+    "description": "Intense blue-tinted ice block with mesmerizing translucent appearance",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 626,
+    "name": "end_stone_brick_stairs",
+    "displayName": "End Stone Brick Stairs",
+    "stackSize": 64,
+    "description": "Mysterious End stone brick stairs with alien architectural feel",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 644,
+    "name": "end_stone_brick_slab",
+    "displayName": "End Stone Brick Slab",
+    "stackSize": 64,
+    "description": "Mysterious End stone brick slab with alien architectural feel",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 659,
+    "name": "redstone_block",
+    "displayName": "Block of Redstone",
+    "stackSize": 64,
+    "description": "Solid block of concentrated redstone power",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 661,
+    "name": "comparator",
+    "displayName": "Redstone Comparator",
+    "stackSize": 64,
+    "description": "Advanced redstone component measuring block state",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 663,
+    "name": "sticky_piston",
+    "displayName": "Sticky Piston",
+    "stackSize": 64,
+    "description": "Advanced piston capable of pulling blocks back",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 666,
+    "name": "observer",
+    "displayName": "Observer",
+    "stackSize": 64,
+    "description": "Redstone component detecting block state changes",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 671,
+    "name": "target",
+    "displayName": "Target",
+    "stackSize": 64,
+    "description": "Precise redstone activation block responding to projectiles",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 673,
+    "name": "lightning_rod",
+    "displayName": "Lightning Rod",
+    "stackSize": 64,
+    "description": "Protective device redirecting lightning strike damage",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 674,
+    "name": "daylight_detector",
+    "displayName": "Daylight Detector",
+    "stackSize": 64,
+    "description": "Photosensitive block generating redstone signal from sunlight",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 678,
+    "name": "trapped_chest",
+    "displayName": "Trapped Chest",
+    "stackSize": 64,
+    "description": "Deceptive storage container with hidden redstone mechanism",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 720,
+    "name": "crimson_door",
+    "displayName": "Crimson Door",
+    "stackSize": 64,
+    "description": "Bright red door from Nether's crimson forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 721,
+    "name": "warped_door",
+    "displayName": "Warped Door",
+    "stackSize": 64,
+    "description": "Mystical blue-green door from Nether's warped forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 740,
+    "name": "crimson_trapdoor",
+    "displayName": "Crimson Trapdoor",
+    "stackSize": 64,
+    "description": "Vibrant red trapdoor from Nether's crimson forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 741,
+    "name": "warped_trapdoor",
+    "displayName": "Warped Trapdoor",
+    "stackSize": 64,
+    "description": "Mystical blue-green trapdoor from Nether's warped forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 759,
+    "name": "crimson_fence_gate",
+    "displayName": "Crimson Fence Gate",
+    "stackSize": 64,
+    "description": "Bright red fence gate from Nether's crimson forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 760,
+    "name": "warped_fence_gate",
+    "displayName": "Warped Fence Gate",
+    "stackSize": 64,
+    "description": "Mystical blue-green gate from Nether's warped forests",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 768,
+    "name": "furnace_minecart",
+    "displayName": "Minecart with Furnace",
+    "stackSize": 1,
+    "description": "Mobile minecart with built-in smelting functionality",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 769,
+    "name": "tnt_minecart",
+    "displayName": "Minecart with TNT",
+    "stackSize": 1,
+    "description": "Explosive minecart for destructive transportation",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 770,
+    "name": "hopper_minecart",
+    "displayName": "Minecart with Hopper",
+    "stackSize": 1,
+    "description": "Automated item collection minecart with inventory",
+    "value": 85,
+    "rarity": 3
+  },
+  {
+    "id": 794,
+    "name": "turtle_helmet",
+    "displayName": "Turtle Shell",
+    "stackSize": 1,
+    "description": "Underwater breathing protection crafted from turtle shells",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 806,
+    "name": "emerald",
+    "displayName": "Emerald",
+    "stackSize": 64,
+    "description": "Bright green precious stone used for trading",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 838,
+    "name": "diamond_sword",
+    "displayName": "Diamond Sword",
+    "stackSize": 1,
+    "description": "Powerful melee weapon crafted from rare diamonds",
+    "value": 85,
+    "rarity": 3
+  },
+  {
+    "id": 839,
+    "name": "diamond_shovel",
+    "displayName": "Diamond Shovel",
+    "stackSize": 1,
+    "description": "Powerful digging tool crafted from rare diamonds",
+    "value": 85,
+    "rarity": 3
+  },
+  {
+    "id": 840,
+    "name": "diamond_pickaxe",
+    "displayName": "Diamond Pickaxe",
+    "stackSize": 1,
+    "description": "Supreme mining tool made from precious diamonds",
+    "value": 90,
+    "rarity": 3
+  },
+  {
+    "id": 841,
+    "name": "diamond_axe",
+    "displayName": "Diamond Axe",
+    "stackSize": 1,
+    "description": "High-performance woodcutting tool from diamond",
+    "value": 85,
+    "rarity": 3
+  },
+  {
+    "id": 842,
+    "name": "diamond_hoe",
+    "displayName": "Diamond Hoe",
+    "stackSize": 1,
+    "description": "Luxurious agricultural tool crafted from diamonds",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 868,
+    "name": "diamond_helmet",
+    "displayName": "Diamond Helmet",
+    "stackSize": 1,
+    "description": "Luxurious protective headgear from rare diamonds",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 869,
+    "name": "diamond_chestplate",
+    "displayName": "Diamond Chestplate",
+    "stackSize": 1,
+    "description": "Supreme chest armor crafted from diamonds",
+    "value": 90,
+    "rarity": 3
+  },
+  {
+    "id": 870,
+    "name": "diamond_leggings",
+    "displayName": "Diamond Leggings",
+    "stackSize": 1,
+    "description": "High-end leg protection from precious diamonds",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 871,
+    "name": "diamond_boots",
+    "displayName": "Diamond Boots",
+    "stackSize": 1,
+    "description": "Exceptional footwear crafted from rare diamonds",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 895,
+    "name": "crimson_sign",
+    "displayName": "Crimson Sign",
+    "stackSize": 16,
+    "description": "Nether-inspired sign with deep red crimson wood",
+    "value": 25,
+    "rarity": 3
+  },
+  {
+    "id": 896,
+    "name": "warped_sign",
+    "displayName": "Warped Sign",
+    "stackSize": 16,
+    "description": "Mysterious teal-colored sign from warped fungus wood",
+    "value": 25,
+    "rarity": 3
+  },
+  {
+    "id": 902,
+    "name": "cherry_hanging_sign",
+    "displayName": "Cherry Hanging Sign",
+    "stackSize": 16,
+    "description": "Elegant hanging sign with soft pink wood color",
+    "value": 30,
+    "rarity": 3
+  },
+  {
+    "id": 906,
+    "name": "crimson_hanging_sign",
+    "displayName": "Crimson Hanging Sign",
+    "stackSize": 16,
+    "description": "Nether-crafted hanging sign with intense crimson hue",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 907,
+    "name": "warped_hanging_sign",
+    "displayName": "Warped Hanging Sign",
+    "stackSize": 16,
+    "description": "Mysterious hanging sign from otherworldly warped wood",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 915,
+    "name": "pufferfish_bucket",
+    "displayName": "Bucket of Pufferfish",
+    "stackSize": 1,
+    "description": "Captured pufferfish for aquatic collection and brewing",
+    "value": 45,
+    "rarity": 3
+  },
+  {
+    "id": 919,
+    "name": "axolotl_bucket",
+    "displayName": "Bucket of Axolotl",
+    "stackSize": 1,
+    "description": "Adorable amphibian preserved in a friendly water bucket",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 929,
+    "name": "recovery_compass",
+    "displayName": "Recovery Compass",
+    "stackSize": 64,
+    "description": "Special compass guiding players back to death point",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 942,
+    "name": "glow_ink_sac",
+    "displayName": "Glow Ink Sac",
+    "stackSize": 64,
+    "description": "Luminescent ink for creating bright, glowing signs",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 993,
+    "name": "ender_pearl",
+    "displayName": "Ender Pearl",
+    "stackSize": 16,
+    "description": "Magical teleportation item from mysterious endermen",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1004,
+    "name": "brewing_stand",
+    "displayName": "Brewing Stand",
+    "stackSize": 64,
+    "description": "Specialized station for creating magical potions",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1009,
+    "name": "allay_spawn_egg",
+    "displayName": "Allay Spawn Egg",
+    "stackSize": 64,
+    "description": "Enchanted egg creating helpful flying companion",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1013,
+    "name": "blaze_spawn_egg",
+    "displayName": "Blaze Spawn Egg",
+    "stackSize": 64,
+    "description": "Fiery Nether creature's dangerous summoning egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1028,
+    "name": "enderman_spawn_egg",
+    "displayName": "Enderman Spawn Egg",
+    "stackSize": 64,
+    "description": "Mysterious teleporting tall creature's egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1030,
+    "name": "evoker_spawn_egg",
+    "displayName": "Evoker Spawn Egg",
+    "stackSize": 64,
+    "description": "Magical illager with powerful spell abilities",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1033,
+    "name": "ghast_spawn_egg",
+    "displayName": "Ghast Spawn Egg",
+    "stackSize": 64,
+    "description": "Floating Nether creature's dangerous spawn egg",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1036,
+    "name": "guardian_spawn_egg",
+    "displayName": "Guardian Spawn Egg",
+    "stackSize": 64,
+    "description": "Underwater hostile mob's dangerous spawning egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1040,
+    "name": "iron_golem_spawn_egg",
+    "displayName": "Iron Golem Spawn Egg",
+    "stackSize": 64,
+    "description": "Massive protective construct's magical egg",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1043,
+    "name": "mooshroom_spawn_egg",
+    "displayName": "Mooshroom Spawn Egg",
+    "stackSize": 64,
+    "description": "Bizarre mushroom-covered cow's magical egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1048,
+    "name": "phantom_spawn_egg",
+    "displayName": "Phantom Spawn Egg",
+    "stackSize": 64,
+    "description": "Nighttime flying undead creature's egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1050,
+    "name": "piglin_spawn_egg",
+    "displayName": "Piglin Spawn Egg",
+    "stackSize": 64,
+    "description": "Intelligent Nether civilization's spawning egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1051,
+    "name": "piglin_brute_spawn_egg",
+    "displayName": "Piglin Brute Spawn Egg",
+    "stackSize": 64,
+    "description": "Aggressive Nether warrior's dangerous egg",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1052,
+    "name": "pillager_spawn_egg",
+    "displayName": "Pillager Spawn Egg",
+    "stackSize": 64,
+    "description": "Hostile raiding mob's menacing spawning egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1056,
+    "name": "ravager_spawn_egg",
+    "displayName": "Ravager Spawn Egg",
+    "stackSize": 64,
+    "description": "Massive destructive beast's terrifying egg",
+    "value": 65,
+    "rarity": 3
+  },
+  {
+    "id": 1062,
+    "name": "skeleton_horse_spawn_egg",
+    "displayName": "Skeleton Horse Spawn Egg",
+    "stackSize": 64,
+    "description": "Supernatural undead horse's magical egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1069,
+    "name": "strider_spawn_egg",
+    "displayName": "Strider Spawn Egg",
+    "stackSize": 64,
+    "description": "Lava-walking Nether creature's unique egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1074,
+    "name": "vex_spawn_egg",
+    "displayName": "Vex Spawn Egg",
+    "stackSize": 64,
+    "description": "Magical flying spirit's ethereal egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1076,
+    "name": "vindicator_spawn_egg",
+    "displayName": "Vindicator Spawn Egg",
+    "stackSize": 64,
+    "description": "Aggressive illager warrior's dangerous egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1079,
+    "name": "witch_spawn_egg",
+    "displayName": "Witch Spawn Egg",
+    "stackSize": 64,
+    "description": "Magical potion-brewing hostile mob's egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1081,
+    "name": "wither_skeleton_spawn_egg",
+    "displayName": "Wither Skeleton Spawn Egg",
+    "stackSize": 64,
+    "description": "Nether's deadly black skeleton's egg",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1083,
+    "name": "zoglin_spawn_egg",
+    "displayName": "Zoglin Spawn Egg",
+    "stackSize": 64,
+    "description": "Zombie-infected hoglin's mutated spawn egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1085,
+    "name": "zombie_horse_spawn_egg",
+    "displayName": "Zombie Horse Spawn Egg",
+    "stackSize": 64,
+    "description": "Undead supernatural equine's magical egg",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1087,
+    "name": "zombified_piglin_spawn_egg",
+    "displayName": "Zombified Piglin Spawn Egg",
+    "stackSize": 64,
+    "description": "Transformed Nether pig creature's undead egg",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1088,
+    "name": "experience_bottle",
+    "displayName": "Bottle o' Enchanting",
+    "stackSize": 64,
+    "description": "Magical bottle containing concentrated experience points",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1104,
+    "name": "wither_skeleton_skull",
+    "displayName": "Wither Skeleton Skull",
+    "stackSize": 64,
+    "description": "Rare black skull from Nether skeleton variant",
+    "value": 60,
+    "rarity": 3
+  },
+  {
+    "id": 1107,
+    "name": "creeper_head",
+    "displayName": "Creeper Head",
+    "stackSize": 64,
+    "description": "Explosive creature's head for dramatic display",
+    "value": 50,
+    "rarity": 3
+  },
+  {
+    "id": 1109,
+    "name": "piglin_head",
+    "displayName": "Piglin Head",
+    "stackSize": 64,
+    "description": "Nether civilization's intelligent creature head",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1114,
+    "name": "enchanted_book",
+    "displayName": "Enchanted Book",
+    "stackSize": 1,
+    "description": "Magical tome containing powerful enchantments",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1125,
+    "name": "golden_horse_armor",
+    "displayName": "Golden Horse Armor",
+    "stackSize": 1,
+    "description": "Luxurious protective equipment for horses",
+    "value": 55,
+    "rarity": 3
+  },
+  {
+    "id": 1150,
+    "name": "chorus_fruit",
+    "displayName": "Chorus Fruit",
+    "stackSize": 64,
+    "description": "Teleporting purple fruit found in End biomes.",
+    "value": 40,
+    "rarity": 3
+  },
+  {
+    "id": 1151,
+    "name": "popped_chorus_fruit",
+    "displayName": "Popped Chorus Fruit",
+    "stackSize": 64,
+    "description": "Roasted chorus fruit, transforms into a crispy snack.",
+    "value": 35,
+    "rarity": 3
+  },
+  {
+    "id": 1159,
+    "name": "spectral_arrow",
+    "displayName": "Spectral Arrow",
+    "stackSize": 64,
+    "description": "Glowing arrow that reveals nearby entities through walls.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1164,
+    "name": "shulker_shell",
+    "displayName": "Shulker Shell",
+    "stackSize": 64,
+    "description": "Rare shell from mysterious floating Shulker creatures.",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 1166,
+    "name": "knowledge_book",
+    "displayName": "Knowledge Book",
+    "stackSize": 1,
+    "description": "Magical book revealing hidden crafting recipes.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1187,
+    "name": "disc_fragment_5",
+    "displayName": "Disc Fragment",
+    "stackSize": 64,
+    "description": "Mysterious fragment of a legendary music disc.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1188,
+    "name": "trident",
+    "displayName": "Trident",
+    "stackSize": 1,
+    "description": "Powerful aquatic weapon wielded by underwater warriors.",
+    "value": 80,
+    "rarity": 3
+  },
+  {
+    "id": 1189,
+    "name": "phantom_membrane",
+    "displayName": "Phantom Membrane",
+    "stackSize": 64,
+    "description": "Ethereal material dropped by nocturnal flying phantoms.",
+    "value": 65,
+    "rarity": 3
+  },
+  {
+    "id": 1198,
+    "name": "mojang_banner_pattern",
+    "displayName": "Banner Pattern",
+    "stackSize": 1,
+    "description": "Exclusive pattern representing minecraft's legendary developers.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1226,
+    "name": "lodestone",
+    "displayName": "Lodestone",
+    "stackSize": 64,
+    "description": "Magical stone used for precise navigation and compass calibration.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1261,
+    "name": "amethyst_cluster",
+    "displayName": "Amethyst Cluster",
+    "stackSize": 64,
+    "description": "Fully formed, stunning amethyst crystal radiating magical energy.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1270,
+    "name": "sentry_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Unique template creating protective sentinel-inspired armor design.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1271,
+    "name": "dune_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Desert-inspired armor trim evoking sandy, windswept landscapes.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1272,
+    "name": "coast_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Maritime-themed armor trim capturing oceanic exploration spirit.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1273,
+    "name": "wild_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Untamed, wilderness-inspired armor trim representing raw nature.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1274,
+    "name": "ward_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Protective armor trim symbolizing mystical defensive energy.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1275,
+    "name": "eye_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Vigilant armor trim design inspired by watchful perception.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1276,
+    "name": "vex_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Mischievous spirit-inspired armor trim with ethereal qualities.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1277,
+    "name": "tide_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Ocean-themed armor trim capturing aquatic movement's essence.",
+    "value": 70,
+    "rarity": 3
+  },
+  {
+    "id": 1278,
+    "name": "snout_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Fierce creature-inspired armor trim with predatory design.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1279,
+    "name": "rib_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Skeletal-inspired armor trim with structural protective elements.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1280,
+    "name": "spire_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Towering, vertical-inspired armor trim representing strength.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1281,
+    "name": "wayfinder_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Navigation-themed armor trim guiding adventurers' journeys.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1282,
+    "name": "shaper_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Innovative armor trim design emphasizing creative transformation.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1283,
+    "name": "silence_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Mystical armor trim template embodying stealth and quiet.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1284,
+    "name": "raiser_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Elevation-themed armor trim symbolizing rising potential.",
+    "value": 75,
+    "rarity": 3
+  },
+  {
+    "id": 1285,
+    "name": "host_armor_trim_smithing_template",
+    "displayName": "Smithing Template",
+    "stackSize": 64,
+    "description": "Welcoming armor trim design representing hospitality.",
+    "value": 75,
+    "rarity": 3
+  }
+]
