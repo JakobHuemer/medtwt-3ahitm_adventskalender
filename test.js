@@ -51,7 +51,6 @@ async function calculateDropPercentages(callTimes) {
 }
 
 
-calculateDropPercentages(100);
 
 
 // const data = fs.readFileSync('original_items.json', "utf-8");
@@ -230,39 +229,39 @@ calculateDropPercentages(100);
 // convert all png files in p = "htdocs/assets/block" recursively to webp
 
 
-// const path = require('path');
-// const sharp = require('sharp');
-//
-// async function convertPngToWebp(directory) {
-//     try {
-//         const files = await fs.promises.readdir(directory, { withFileTypes: true });
-//
-//         for (const file of files) {
-//             const fullPath = path.join(directory, file.name);
-//
-//             if (file.isDirectory()) {
-//                 await convertPngToWebp(fullPath);
-//             } else if (path.extname(file.name).toLowerCase() === '.png') {
-//                 const webpPath = fullPath.replace(/\.png$/i, '.webp');
-//
-//                 await sharp(fullPath)
-//                     .webp({
-//                         lossless: true,  // Lossless conversion
-//                         quality: 80,     // Compression level (0-100)
-//                         nearLossless: true  // Additional size optimization
-//                     })
-//                     .toFile(webpPath);
-//
-//                 console.log(`Converted: ${fullPath} -> ${webpPath}`);
-//             }
-//         }
-//     } catch (error) {
-//         console.error('Conversion error:', error);
-//     }
-// }
-//
-// const p = 'htdocs/assets/block';
-// convertPngToWebp(p);
+const path = require('path');
+const sharp = require('sharp');
+
+async function convertPngToWebp(directory) {
+    try {
+        const files = await fs.promises.readdir(directory, { withFileTypes: true });
+
+        for (const file of files) {
+            const fullPath = path.join(directory, file.name);
+
+            if (file.isDirectory()) {
+                await convertPngToWebp(fullPath);
+            } else if (path.extname(file.name).toLowerCase() === '.png') {
+                const webpPath = fullPath.replace(/\.png$/i, '.webp');
+
+                await sharp(fullPath)
+                    .webp({
+                        lossless: true,  // Lossless conversion
+                        quality: 80,     // Compression level (0-100)
+                        nearLossless: true  // Additional size optimization
+                    })
+                    .toFile(webpPath);
+
+                console.log(`Converted: ${fullPath} -> ${webpPath}`);
+            }
+        }
+    } catch (error) {
+        console.error('Conversion error:', error);
+    }
+}
+
+const p = 'htdocs/assets/block';
+convertPngToWebp(p);
 
 // -----------------------------------------------------------------------
 

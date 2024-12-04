@@ -32,6 +32,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "minecraft", monospace;
+    image-rendering: pixelated;
+}
+
+:root {
+    --block-size: 10px;
 }
 
 h1 {
@@ -40,3 +45,21 @@ h1 {
     margin-bottom: 1rem;
 }
 
+
+main {
+    position: absolute;
+    min-height: 100svh;
+    background: red;
+}
+
+
+block-element {
+    aspect-ratio: 1;
+    width: var(--block-size);
+    position: absolute;
+}
+
+block-pane,
+block-element {
+    position: absolute;
+}
