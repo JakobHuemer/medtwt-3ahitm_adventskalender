@@ -23,7 +23,7 @@ export class Block extends HTMLElement {
 
     set x(x) {
         this._x = Math.round(x);
-        this.style.left = `calc(var(--block-size) * ${ x })`;
+        this.style.left = `calc(var(--block-size) * ${ this._x })`;
     }
 
     get x() {
@@ -32,7 +32,7 @@ export class Block extends HTMLElement {
 
     set y(y) {
         this._y = Math.round(y);
-        this.style.top = `calc(var(--block-size) * ${ y })`;
+        this.style.top = `calc(var(--block-size) * ${ this._y })`;
     }
 
     get y() {

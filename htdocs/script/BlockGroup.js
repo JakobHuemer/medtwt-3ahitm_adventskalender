@@ -12,8 +12,6 @@ export class BlockGroup extends Block {
         super(material, x, y);
 
         this.material = material;
-        this.x = x;
-        this.y = y;
 
         this.blocksArray = [];
 
@@ -26,7 +24,6 @@ export class BlockGroup extends Block {
                 this.createBlock(toAddItem[0], toAddItem[1]);
             }
         });
-
 
     }
 
